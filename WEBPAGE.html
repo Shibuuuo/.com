@@ -1,6 +1,5 @@
 <html style="scroll-behavior: smooth;">
 <head>
-    <title>S.M. WEBS</title>
     <body bgcolor="lightgrey">
         <hr size="10px">
         <button style="background-color:lightslategray">ABOUT</button>
