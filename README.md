@@ -86,6 +86,4 @@
                 <br>
                 <a href="file:///C:/Users/DELL/Desktop/HTML/MY%20WORKS/FEEDBACK%20PAGE.html">Submit</a>
                 <hr size="20px">
-                </body>
-                </head>
-                </html>
+               
