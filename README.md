@@ -11,16 +11,6 @@
         <button style="background-color:lightslategray">SOFTWARES</button>
         <button style="background-color:lightslategray">YOUNG</button>
         <button style="background-color:lightslategray">COMPUTER EXPERT</button>
-        <button style="background-color:lightslategray">AN AVERAGE STUDENT</button>
-        <button style="background-color:lightslategray">12 YEARS</button>
-        <button style="background-color:lightslategray">GAMER</button>
-        <button style="background-color:lightslategray">NON-PRIVILEGED</button>
-        <button style="background-color:lightslategray">DOING IN FREEDOM</button>
-        <button style="background-color:lightslategray">2011</button>
-        <button style="background-color:lightslategray">ALMOST MASTERS IN HTML</button>
-        <button style="background-color:lightslategray">EDITOR</button>
-        <button style="background-color:lightslategray">SMART MIND</button>
-        <button style="background-color:lightslategray">24</button>
         <hr size="10px">
         <div id ="navbar" style="border-radius: 10px;display:block;background-color:#212121; height:60px;margin-right: 2px;margin-left: 2px; text-align:center;padding-top: 0.5cm;font-family:  'Poppins', sans-serif; ">
             <a href="index.html#ABOUT">    <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">About Me</button></a>
