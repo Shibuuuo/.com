@@ -35,7 +35,7 @@
         <P style="text-align: center">I am from Bihar</p>
         <p style="text-align: center;font-style:italic;">I am in Class8</p><hr>
             <details type="disc">
-           <summary style="text-align: right;color:firebrick;">MORE ABOUT ME</summary>
+           <summary style="text-align: right;color:firebrick;">MORE ABOUT ME(Click)</summary>
             <P style="text-align: right">>I am a HTML/CSS programmer.I do HTML most likely everyday.HTML is my passion/hobby</p><Br>
             <p style="text-align: right">I use<mark style="color:darkred">Visual Studio Code Editor</mark> for doing HTML</p><br>
             <p style="text-align: right">I use Windows10 Education for doing HTML</p>
