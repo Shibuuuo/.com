@@ -55,11 +55,7 @@
                 <p style="color: chocolate">YES MY FAVOURITE SUBJECT IS<mark style="color:darkred">COMPUTERS</mark></p>
                 <hr size="20px">
                 <h5 style="text-align: center;">|BUSINESS|</h5>
-                <H6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6>
-                    <h7 style="text-decoration:underline;">THE ADDRESS IS:</h7>
-                    <ul type="disc">
-                        <li>FF-4 Vardan Apartment,Abhay Khand-3,Ind,Ghz</li>
-                    </ul>
+                <H6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
                 <h7 style="text-decoration: underline;">THE CHARGES ARE:</h7>
                 <ul type="disc">
                     <li>FOR STATIC WEBPAGE:70RS</li>
