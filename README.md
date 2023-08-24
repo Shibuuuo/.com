@@ -50,7 +50,7 @@
                 <ul type="disc">
                     <li>FOR STATIC WEBPAGE:70RS</li>
                     <li>FOR DYNAMIC WEBPAGE:150RS</li>
-                        <H8>CONTACT:</H8>
+                        <H8 style="text-decoration:underline">THE CONTACT IS:</H8>
                         <P>9773774802</P>
                 <hr size="20px">
                 <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9>
