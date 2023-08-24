@@ -11,6 +11,7 @@
         <button style="background-color:lightslategray">SOFTWARES</button>
         <button style="background-color:lightslategray">YOUNG</button>
         <button style="background-color:lightslategray">COMPUTER EXPERT</button>
+          <button style="background-color:lightslategray">24</button>
         <hr size="10px">
         <div id ="navbar" style="border-radius: 10px;display:block;background-color:#212121; height:60px;margin-right: 2px;margin-left: 2px; text-align:center;padding-top: 0.5cm;font-family:  'Poppins', sans-serif; ">
             <a href="index.html#ABOUT">    <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">About Me</button></a>
@@ -48,6 +49,8 @@
                 <ul type="disc">
                     <li>FOR STATIC WEBPAGE:70RS</li>
                     <li>FOR DYNAMIC WEBPAGE:150RS
+                        <H8>CONTACT:</H8>
+                        <P>9773774802</P>
                 <hr size="20px">
                 <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9>
                 <form>
