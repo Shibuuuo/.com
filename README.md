@@ -59,7 +59,7 @@
                 <h7 style="text-decoration: underline;">THE CHARGES ARE:</h7>
                 <ul type="disc">
                     <li>FOR STATIC WEBPAGE:70RS</li>
-                    <li>FOR DYNAMIC WEBPAGE:150RS</li>
+                    <li>FOR DYNAMIC WEBPAGE:150RS
                 </ul>
                 <hr size="20px">
                 <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9>
