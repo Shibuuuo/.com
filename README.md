@@ -43,31 +43,30 @@
             <Hr>
             <h3 style="text-decoration:underline;color:blue">What Will I Do After HTML?</h3>
             <ul type="disc">
-                <li style="color: darkviolet;">I will start doing Python</p>
+                <li style="color: darkviolet;">I will start doing Python
                 <li style="color: darkviolet;">I will start developing Softwares
-                </ul>
                 <h4 style="text-decoration: underline;color:blue">What Are My Favourite Subjects?</h4>
                 <ol type="I">
                     <li>Computers</li>
                     <li>Computers
                     <li>Computers</li>
-                </ol>
                 <p style="color: chocolate">YES MY FAVOURITE SUBJECT IS<mark style="color:darkred">COMPUTERS</mark></p>
                 <hr size="20px">
                 <h5 style="text-align: center;">|BUSINESS|</h5>
                 <H6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
-                <h7 style="text-decoration: underline;">THE CHARGES ARE:</h7>
+                <h7 style="text-decoration: underline;cursor:pointer">THE CHARGES ARE:</h7>
                 <ul type="disc">
                     <li>FOR STATIC WEBPAGE:70RS</li>
                     <li>FOR DYNAMIC WEBPAGE:150RS
-                </ul>
                 <hr size="20px">
                 <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9>
                 <form>
                     <input type="checkbox" value="Yes">Yes<br><br>
-                    <input type="checkbox" value="No">No
+                    <input type="checkbox" value="No">No<Br>
                 </form>
+                        <br>
                 <select>
+                    <br>
                     <option value="sad">1 STAR</option>
                     <option value="sad">2 STAR</option>
                     <option value="sad">3 STAR</option>
