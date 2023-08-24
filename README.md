@@ -49,7 +49,7 @@
                 <h4 style="text-decoration: underline;color:blue">What Are My Favourite Subjects?</h4>
                 <ol type="I">
                     <li>Computers</li>
-                    <li>Computers</li>
+                    <li>Computers
                     <li>Computers</li>
                 </ol>
                 <p style="color: chocolate">YES MY FAVOURITE SUBJECT IS<mark style="color:darkred">COMPUTERS</mark></p>
