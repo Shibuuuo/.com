@@ -19,7 +19,7 @@
             <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Business</button>
             <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Contact Us</button>
         </div>
-<h1 style="text-align: center;color:darkolivegreen;">|ABOUT|</h1>
+<h1 style="text-align: center;color:darkolivegreen;text-decoration:underline">|ABOUT|</h1>
         <h2 style="text-align:center">Hi!</h2>
         <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
         <p style="text-align: center">I am a Computer/Coding expert</p>
@@ -27,7 +27,7 @@
         <P style="text-align: center">I am from Bihar</p>
         <p style="text-align: center;font-style:italic;">I am in Class8</p><hr>
             <details type="disc">
-           <summary style="text-align: right;color:firebrick;">MORE ABOUT ME(Click)</summary>
+           <summary style="text-align: right;color:firebrick;">HOW I DO HTML(Click)</summary>
             <P style="text-align: right">>I am a HTML/CSS programmer.I do HTML most likely everyday.HTML is my passion/hobby</p><Br>
             <p style="text-align: right">I use<mark style="color:darkred">Visual Studio Code Editor</mark> for doing HTML</p><br>
             <p style="text-align: right">I use Windows10 Education for doing HTML</p>
@@ -44,7 +44,7 @@
                     <li>Computers</li>
                 <p style="color: chocolate">YES MY FAVOURITE SUBJECT IS<mark style="color:darkred">COMPUTERS</mark></p>
                 <hr size="20px">
-                <h5 style="text-align: center;">|BUSINESS|</h5>
+                <h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                 <H6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
                 <h7 style="text-decoration: underline;cursor:pointer">THE CHARGES ARE:</h7>
                 <ul type="disc">
