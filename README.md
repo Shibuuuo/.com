@@ -72,8 +72,9 @@
                     Feedback:<br>
                     <input type="text"><br><br>
                     <input type="radio" value="Other">Other
-                </form>
                 <br>
-                <a href="file:///C:/Users/DELL/Desktop/HTML/MY%20WORKS/FEEDBACK%20PAGE.html">Submit</a>
+                    <br>
+                    <input type="submit" value=Submit>
+                </form>
                 <hr size="20px">
                
