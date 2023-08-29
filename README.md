@@ -33,7 +33,7 @@
             <p style="text-align: right">I use Windows10 Education for doing HTML</p>
             </details>
             <Hr>
-            <h3 style="text-decoration:underline;color:blue">What Will I Do After HTML?</h3>
+           <h3 style="text-decoration:underline ;font-size: larger;font-family: cursive;font-weight: bolder;font-style: italic;color:blue">What Will I Do After HTML?</h3>
             <ul type="disc">
                 <li style="color: darkviolet;">I will start doing Python
                 <li style="color: darkviolet;">I will start developing Softwares
