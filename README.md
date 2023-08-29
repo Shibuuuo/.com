@@ -18,11 +18,11 @@
             <a href="index.html#ABOUT">    <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">About Me</button></a>
             <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Business</button>
             <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Contact Us</button>
-        </div>
+        </div><br>
         <marquee
             width="100%"
             behavior="alternate"
-            bgcolor="darkblue">S.M. WEBS</marquee>
+            bgcolor="lightcyan">S.M. WEBS</marquee>
 <h1 style="text-align: center;color:darkolivegreen;text-decoration:underline">|ABOUT|</h1>
         <h2 style="text-align:center">Hi!</h2>
         <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
