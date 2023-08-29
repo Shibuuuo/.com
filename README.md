@@ -1,6 +1,6 @@
 <html style="scroll-behavior: smooth;">
 <head>
-    <body bgcolor="lightgrey">
+   <body bgcolor="lightgrey" style="font-family: cursive;font-weight: bolder;font-style: italic;">
         <hr size="10px">
         <button style="background-color:lightslategray">ABOUT</button>
         <button style="background-color:lightslategray">BUSINESS</button>
@@ -22,7 +22,7 @@
         <marquee
             width="100%"
             behavior="alternate"
-            bgcolor="lightcyan">S.M. WEBS</marquee>
+            bgcolor="lightyellow">S.M. WEBS</marquee>
 <h1 style="text-align: center;color:darkolivegreen;text-decoration:underline">|ABOUT|</h1>
         <h2 style="text-align:center">Hi!</h2>
         <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
