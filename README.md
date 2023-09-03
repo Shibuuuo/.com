@@ -36,7 +36,7 @@
             <p style="text-align: right">I use Windows10 Education for doing HTML</p>
             </details>
             <Hr>
-           <h3 style="text-decoration:underline ;font-size: larger;font-family: cursive;font-weight: bolder;font-style: italic;color:blue">What Will I Do After HTML?</h3>
+           <h3 style="text-decoration:underline ;font-size: larger;font-weight: bolder;font-style: italic;color:blue">What Will I Do After HTML?</h3>
             <ul type="disc">
                 <li style="color: darkviolet;">I will start doing Python
                 <li style="color: darkviolet;">I will start developing Softwares
@@ -46,6 +46,17 @@
                     <li>Computers
                     <li>Computers</li>
                 <p style="color: chocolate">YES MY FAVOURITE SUBJECT IS<mark style="color:darkred">COMPUTERS</mark></p>
+                   <hr size="20px">
+                   <div class="navbar" style="border-radius: 10px;padding: 3%;padding-top: 0.5cm;color: white;background-color: black">
+                <p style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-weight: 900;">I will tell my entire journey of programming in this blog.
+            I was started with coding in June2023.I wanted to become a software engineer.I am only 12 years old as you know in my description.As you know that this generaion is going towards gaming and devices.So,there are 2 types of people who wants to become a software engineer.
+            First, people who don't know even a single thing about devices and programming but still saying that I want to become a software engineer.(btw I was also like that few months earlier.lol)
+        2nd, people who actually wanted to become a software engineer and know most of the things in computer.Many talks about computer is done, let's move on to my blog.In sports I like to play Table-Tennis.
+        I am living in my society since 8 years, but didn't went to play in ground ever and also didn't made any friend.As you know that 2020-2021 was the crucial years for us due to Corona.
+        In 2020 I was in class 5th and in 2021 I was in class 6th.So, I was not able to even to walk properly because I was just laying on bed,attending classes and watching TV.I went to play in class 6th
+        around October.Everyone was making jokes on me as I was not able to walk and run properly.After 5-6 days, I was sick due to Dengue for 25-30 days and admitted also.After that I stopped playing 
+        with my friends.In 2022 my school was reopened so I improved so much in walking properly.In ending of 2022 I started to play in ground with kids.I am writing this blog on 3 August 2023
+        and I can walk properly and can run very fast.My physical fitness is very good right now:)
                 <hr size="20px">
                 <h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                 <H6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
