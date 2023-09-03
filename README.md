@@ -30,10 +30,10 @@
         <P style="text-align: center">I am from Bihar</p>
         <p style="text-align: center;font-style:italic;">I am in Class8</p><hr>
             <details type="disc">
-           <summary style="text-align: right;color:firebrick;">HOW I DO HTML?(Click)</summary>
-            <P style="text-align: right">>I am a HTML/CSS programmer.I do HTML most likely everyday.HTML is my passion/hobby</p><Br>
-            <p style="text-align: right">I use<mark style="color:darkred">Visual Studio Code Editor</mark> for doing HTML</p><br>
-            <p style="text-align: right">I use Windows10 Education for doing HTML</p>
+           <summary style="text-align: right;color:firebrick;">HOW I DO CODING?(Click)</summary>
+            <P style="text-align: right">>I am a HTML/CSS programmer.I do coding most likely everyday.Coding is my passion/hobby</p><Br>
+            <p style="text-align: right">I use<mark style="color:darkred">Visual Studio Code Editor</mark> for coding</p><br>
+            <p style="text-align: right">I use Windows10 Education for coding</p>
             </details>
             <Hr>
            <h3 style="text-decoration:underline ;font-size: larger;font-weight: bolder;font-style: italic;color:blue">What Will I Do After HTML?</h3>
@@ -56,7 +56,7 @@
         In 2020 I was in class 5th and in 2021 I was in class 6th.So, I was not able to even to walk properly because I was just laying on bed,attending classes and watching TV.I went to play in class 6th
         around October.Everyone was making jokes on me as I was not able to walk and run properly.After 5-6 days, I was sick due to Dengue for 25-30 days and admitted also.After that I stopped playing 
         with my friends.In 2022 my school was reopened so I improved so much in walking properly.In ending of 2022 I started to play in ground with kids.I am writing this blog on 3 August 2023
-        and I can walk properly and can run very fast.My physical fitness is very good right now:)
+        and I can walk properly and can run very fast.My physical fitness is very good right now:)</p></div>
                 <hr size="20px">
                 <h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                 <H6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
