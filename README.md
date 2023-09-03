@@ -22,7 +22,8 @@
         <marquee
             width="100%"
             behavior="alternate"
-            bgcolor="lightyellow">S.M. WEBS</marquee>
+            bgcolor="lightyellow"
+           style="text-decoration:underline;border-radius:10px">>--S.M. WEBS--<</marquee>
 <h1 style="text-align: center;color:darkolivegreen;text-decoration:underline">|ABOUT|</h1>
         <h2 style="text-align:center">Hi!</h2>
         <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
