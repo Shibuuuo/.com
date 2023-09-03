@@ -51,7 +51,7 @@
                    <button style="border-radius: 10px;font-size: larger;font-family: cursive;font-weight: 900;font-style: italic;background-color: black;color: orangered;">Blog:</button><br><br>
                    <div class="navbar" style="border-radius: 10px;padding: 3%;padding-top: 0.5cm;color: white;background-color: black">
                 <p style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-weight: 900;">I will tell my entire journey of programming in this blog.
-            I was started with coding in June2023.I wanted to become a software engineer.I am only 12 years old as you know in my description.As you know that this generaion is going towards gaming and devices.So,there are 2 types of people who wants to become a software engineer.
+            I was started with coding in June2023.I wanted to become a software engineer.I am only 12 years old as you know in my description.As you know that this generation is going towards gaming and devices.So,there are 2 types of people who wants to become a software engineer.
             First, people who don't know even a single thing about devices and programming but still saying that I want to become a software engineer.(btw I was also like that few months earlier.lol)
         2nd, people who actually wanted to become a software engineer and know most of the things in computer.Many talks about computer is done, let's move on to my blog.In sports I like to play Table-Tennis.
         I am living in my society since 8 years, but didn't went to play in ground ever and also didn't made any friend.As you know that 2020-2021 was the crucial years for us due to Corona.
