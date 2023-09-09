@@ -106,7 +106,7 @@
                 <h7 style="text-decoration: underline;cursor:pointer">THE CHARGES ARE:</h7>
                 <ul type="disc">
                     <li>FOR STATIC WEBPAGE:70RS</li>
-                    <li>FOR DYNAMIC WEBPAGE:150RS</li>
+                    <li>FOR DYNAMIC WEBPAGEsssss:150RS</li>
                         <H8 style="text-decoration:underline;cursor:pointer">THE CONTACT IS:</H8>
                     <ul type="disc">
                         <li>9773774802</li>
