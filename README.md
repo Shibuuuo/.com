@@ -1,5 +1,4 @@
-
-      <html style="scroll-behavior: smooth;">
+<html>
 <head>
    <title>S.M. WEBS</title>
    <body bgcolor="lightgrey" style="font-family: cursive;font-weight: bolder;font-style: italic;">
