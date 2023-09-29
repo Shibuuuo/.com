@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -58,7 +58,7 @@
                  </details>
                  <hr>
                  <div align="center">
-                    <button class="btn">My Blog:</button></i><br><Br>
+                    <button class="btn">My Blog:</button><br><Br>
                     <div class="navbar" style="border-radius: 10px;padding: 3%;padding-top: 0.5cm;color: white;background-color: black">
                         <p style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-weight: 900;">I will tell my entire journey of programming in this blog.
                     I was started with coding in June2023.I wanted to become a software engineer.I am only 12 years old as you know in my description.As you know that this generation is going towards gaming and devices.So,there are 2 types of people who wants to become a software engineer.
@@ -105,5 +105,3 @@
                     <input type="submit" value="Submit" />
                 </form>
                 <hr size="20px" />
-</body>
-</html>
