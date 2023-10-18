@@ -81,7 +81,7 @@
                         <H8 style="text-decoration:underline;cursor:pointer">THE CONTACT IS:</H8>
                     <ul type="disc">
                         <B><li>9773774802</li></B><Br>
-                        <B><h9>Please Subscribe To My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></B></fieldset>
+                        <B><h9>Please Subscribe To My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></B>
                 <hr size="20px">
                 <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9>
                 <form>
