@@ -23,9 +23,21 @@
             background-color: black;
             color: orangered;
         }
+        .dark-mode{
+            background-color: black;
+            color: white;
+        }
     </style>
 </head>
 <body bgcolor="lightgrey"> 
+    <button onclick="myFunction()">Enable Dark Mode</button>
+    <script>
+        function myFunction() {
+           var element = document.body;
+           element.classList.toggle("dark-mode");
+        }
+        </script>
+    </script>
     <hr size="10px" />
     <button style="background-color:lightslategray">ABOUT</button>
     <button style="background-color:lightslategray">BUSINESS</button>
