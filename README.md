@@ -40,7 +40,6 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://shibuuuo.github.io/0/">0</a></h1>
       
 
       
