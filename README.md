@@ -167,7 +167,7 @@
                     <b class="aqua">3:</b>Making Dark/Any Color Mode Toggle Button <br> 
                     <b class="aqua">4:</b>Making Links <br>
                     <b class="aqua">5:</b>Making Descriptive Area <br>       
-                    <b class="aqua">6:</b>Making Aesthetic Choice <br>
+                    <br>
                            </p></center></nav> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                  <nav class="nav"><center><br>
                     <h1><u>CSS AND JAVASCRIPT</u><br></h1>
@@ -175,7 +175,7 @@
                     <b class="aqua">1:</b>All The Properties Of CSS Is Learned <br>
                     <b class="aqua">2:</b>All The Text Formatting, Graphics, Audio, & Video elements Is Learned <br>
                     <b class="aqua">3:</b>Learning Javascript Basics <br>
-                    <b class="aqua">4:</b>In Javascript, Dark-Mode/Any Color-Mode Is Learned <br>
+                    <br>
                     
                 </p>
                 </center></nav><br>
@@ -189,7 +189,7 @@
                     <b class="aqua">4:</b>Coding Form <br>
                     <b class="aqua">5:</b>School Admission Form & Login Form <br>
                     <b class="aqua">6:</b>Buying Games Website <br>
-                    <b class="aqua">7:</b>Messaging Website <br>
+                     <br>
                     
                 </p>
                 </center></nav>
@@ -239,12 +239,11 @@
                     <input type="submit" value="Submit" />
                 </form>
                 <hr size="20px" />
-</ul></ul></body></html>
+</ul></ul>
 
 
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  </body>
-</html>
+  
