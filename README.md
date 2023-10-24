@@ -164,9 +164,7 @@
                 <p>
                     <b style="color: aqua;" class="aqua">1:</b>Making Registration Forms <br>
                    <b class="aqua">2:</b> Making Animations <br>
-                    <b class="aqua">3:</b>Making Dark/Any Color Mode Toggle Button <br> 
-                    <b class="aqua">4:</b>Making Links <br>
-                    <b class="aqua">5:</b>Making Descriptive Area <br>       
+                    <b class="aqua">3:</b>Making Dark/Any Color Mode Toggle Button <br>   
                     <br>
                            </p></center></nav> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                  <nav class="nav"><center><br>
@@ -187,8 +185,6 @@
                     <b class="aqua">2:</b>My Own Website <br>
                     <b class="aqua">3:</b>Online Grocery Website <br>
                     <b class="aqua">4:</b>Coding Form <br>
-                    <b class="aqua">5:</b>School Admission Form & Login Form <br>
-                    <b class="aqua">6:</b>Buying Games Website <br>
                      <br>
                     
                 </p>
