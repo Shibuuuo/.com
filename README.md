@@ -168,7 +168,7 @@
                     <b class="aqua">4:</b>Making Links <br>
                     <b class="aqua">5:</b>Making Descriptive Area <br>       
                     <b class="aqua">6:</b>Making Aesthetic Choice <br>
-                    <b class="aqua">7:</b>All The Basics Are Cleared        </p></center></nav> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                           </p></center></nav> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                  <nav class="nav"><center><br>
                     <h1><u>CSS AND JAVASCRIPT</u><br></h1>
                 <p>
@@ -176,7 +176,7 @@
                     <b class="aqua">2:</b>All The Text Formatting, Graphics, Audio, & Video elements Is Learned <br>
                     <b class="aqua">3:</b>Learning Javascript Basics <br>
                     <b class="aqua">4:</b>In Javascript, Dark-Mode/Any Color-Mode Is Learned <br>
-                    <b class="aqua">5:</b>Lastly, CSS Is Very Easy...😅
+                    
                 </p>
                 </center></nav><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -190,7 +190,7 @@
                     <b class="aqua">5:</b>School Admission Form & Login Form <br>
                     <b class="aqua">6:</b>Buying Games Website <br>
                     <b class="aqua">7:</b>Messaging Website <br>
-                    <b class="aqua">8:</b>Feedback Page 
+                    
                 </p>
                 </center></nav>
                 </div>
