@@ -1,6 +1,7 @@
 
 
 
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -39,6 +40,7 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
+      
       
       
 
@@ -142,7 +144,7 @@
         .id{
             background-color: #212121;
             color: #bb86fc;
-            height: 300px;
+            height: 150px;
             width: 399px;
             border-radius: 10px;
             border-color: aqua;
