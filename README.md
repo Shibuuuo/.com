@@ -1,7 +1,6 @@
 
 
 
-
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -9,7 +8,50 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>JAI SHREE RAM</title>
+<title>0 | JAI SHREE RAM</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="0" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="JAI SHREE RAM" />
+<meta property="og:description" content="JAI SHREE RAM" />
+<link rel="canonical" href="https://shibuuuo.github.io/0/" />
+<meta property="og:url" content="https://shibuuuo.github.io/0/" />
+<meta property="og:site_name" content="0" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="0" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"0","name":"0","url":"https://shibuuuo.github.io/0/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/0/assets/css/style.css?v=15358afbe7805e714554f8afd305029704b2d2c7">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/0/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://shibuuuo.github.io/0/">0</a></h1>
+      
+
+      
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>S.M. WEBS</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="mishra.github.io" />
 <meta property="og:locale" content="en_US" />
@@ -25,7 +67,7 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"mishra.github.io","name":"mishra.github.io","url":"https://shibuuuo.github.io/mishra.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/mishra.github.io/assets/css/style.css?v=87f1cb83247f3df93195377a6ccf4504772f0e52">
+    <link rel="stylesheet" href="/mishra.github.io/assets/css/style.css?v=87f1cb83247f3df93195377a6ccf4504772f0e52" />
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -98,6 +140,17 @@
             height: 250px;
             width: 700px;
         }
+        .id{
+            background-color: #212121;
+            color: #bb86fc;
+            height: 300px;
+            width: 399px;
+            border-radius: 10px;
+            border-color: aqua;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: 900;
+            font-size: xx-large;
+        }
     </style>
 </head>
 <body bgcolor="lightgrey">
@@ -130,6 +183,11 @@
         <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Business</button>
         <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Contact Us</button>
     </div><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
+    <nav class="id">=>Developer <br>
+                    =>Designer
+                 <br>
+                    =>Coder</nav>
+    <hr>
         <br />
     <h1 align="center" class="h1">|ABOUT||ME|</h1> 
     <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
@@ -159,48 +217,48 @@
                         <hr size="20px" />
                  </div>
                  <div class="div">
-                 <nav class="nav"><center><br>
-                    <h1><u>HTML-CLEARED</u><br></h1>
+                 <nav class="nav"><center><br />
+                    <h1><u>HTML-CLEARED</u><br /></h1>
                 <p>
-                    <b style="color: aqua;" class="aqua">1:</b>Making Registration Forms <br>
-                   <b class="aqua">2:</b> Making Animations <br>
-                    <b class="aqua">3:</b>Making Dark/Any Color Mode Toggle Button <br>   
-                    <br>
+                    <b style="color: aqua;" class="aqua">1:</b>Making Registration Forms <br />
+                   <b class="aqua">2:</b> Making Animations <br />
+                    <b class="aqua">3:</b>Making Dark/Any Color Mode Toggle Button <br />   
+                    <br />
                            </p></center></nav> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                 <nav class="nav"><center><br>
-                    <h1><u>CSS AND JAVASCRIPT</u><br></h1>
+                 <nav class="nav"><center><br />
+                    <h1><u>CSS AND JAVASCRIPT</u><br /></h1>
                 <p>
-                    <b class="aqua">1:</b>All The Properties Of CSS Is Learned <br>
-                    <b class="aqua">2:</b>All The Text Formatting, Graphics, Audio, & Video elements Is Learned <br>
-                    <b class="aqua">3:</b>Learning Javascript Basics <br>
-                    <br>
+                    <b class="aqua">1:</b>All The Properties Of CSS Is Learned <br />
+                    <b class="aqua">2:</b>All The Text Formatting, Graphics, Audio, &amp; Video elements Is Learned <br />
+                    <b class="aqua">3:</b>Learning Javascript Basics <br />
+                    <br />
                     
                 </p>
-                </center></nav><br>
+                </center></nav><br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <nav class="nav"><center><br>
-                    <h1><u>MY PROJECTS</u><br></h1>
+                <nav class="nav"><center><br />
+                    <h1><u>MY PROJECTS</u><br /></h1>
                 <p>
-                    <b class="aqua">1:</b>Electric Online Shopping Website <br>
-                    <b class="aqua">2:</b>My Own Website <br>
-                    <b class="aqua">3:</b>Online Grocery Website <br>
-                    <b class="aqua">4:</b>Coding Form <br>
-                     <br>
-                    
+                    <b class="aqua">1:</b>Electric Online Shopping Website <br />
+                    <b class="aqua">2:</b>My Own Website <br />
+                    <b class="aqua">3:</b>Online Grocery Website <br />
+                    <b class="aqua">4:</b>Coding Form <br />
+                     <br />
+
                 </p>
                 </center></nav>
                 </div>
-                 <hr size="20px"><center>
-                 <nav class="nav2"><br>
+                 <hr size="20px" /><center>
+                 <nav class="nav2"><br />
                     <h1><u><b>What is coding?</b></u></h1>
-                    <br>
+                    <br /><center>
                     <p><b>Coding creates a set of instructions for computers to follow. These instructions determine what actions a computer can and cannot take. Coding allows programmers   to build programs, such as websites and apps.
-                        If you have to do coding on the top,   learn "HCJ"(HTML, CSS & JAVASCRIPT).
-                    </b></p>
+                        If you have to do coding on the top,   learn "HCJ"(HTML, CSS &amp; JAVASCRIPT).
+                    </b></p></center>
                  </nav>
                  </center>
-                 <hr size="20px">
-                 <fieldset><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
+                 <hr size="20px" />
+                 <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                     <h6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
                 <h7 style="text-decoration: underline;cursor:pointer">THE CHARGES ARE:</h7>
                 <ul type="disc">
@@ -209,9 +267,7 @@
                         <H8 style="text-decoration:underline;cursor:pointer">THE CONTACT IS:</H8>
                     <ul type="disc">
                         <b><li>9773774802</li></b><br />
-                        <b><h9>Please Subscribe To My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>
-                    </fieldset>               
-                        <hr size="20px" />
+                        <b><h9>Please Subscribe To My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>               
                 <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9>
                 <form>
                     <input type="checkbox" value="Yes" />Yes<br /><br />
@@ -234,12 +290,29 @@
                     <br />
                     <input type="submit" value="Submit" />
                 </form>
-                <hr size="20px" />
+                    
+                
 </ul></ul>
+
+
+      
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+</fieldset>
+<hr><br>
+<i class="fa-brands fa-github fa-2xl"></i>
+<div style="float: right;">
+<i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i>
+<i class="fa-brands fa-whatsapp fa-2xl" style="color: green;fill: green;"></i>
+</div>
+</body></html></div></body></html>
 
 
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  
+  </body>
+</html>
