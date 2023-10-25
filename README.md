@@ -2,6 +2,9 @@
 
 
 
+
+
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -13,8 +16,8 @@
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="0" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="S.M. WEBS" />
-<meta property="og:description" content="S.M. WEBS" />
+<meta name="description" content="JAI SHREE RAM" />
+<meta property="og:description" content="JAI SHREE RAM" />
 <link rel="canonical" href="https://shibuuuo.github.io/0/" />
 <meta property="og:url" content="https://shibuuuo.github.io/0/" />
 <meta property="og:site_name" content="0" />
@@ -22,7 +25,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="0" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"S.M. WEBS","headline":"0","name":"0","url":"https://shibuuuo.github.io/0/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"0","name":"0","url":"https://shibuuuo.github.io/0/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/0/assets/css/style.css?v=15358afbe7805e714554f8afd305029704b2d2c7">
@@ -38,10 +41,10 @@
 <!-- end custom head snippets -->
 
   </head>
-  <body bgcolor="lightgrey">
+  <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      
+      <h1><a href="https://smwebs.github.io/webs/">S.M. WEBS</a></h1>
       
 
       
@@ -81,7 +84,7 @@
 <!-- end custom head snippets -->
 
   </head>
-  <body bgcolor="lightgrey">
+  <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://shibuuuo.github.io/mishra.github.io/"></a></h1>
@@ -112,7 +115,7 @@
             color: orangered;
         }
         .dark-mode{
-            background-color: black;
+            background-color:#100101;
             color: white;
         }
         .yellow-mode{
@@ -166,7 +169,12 @@
             var element = document.body;
             element.classList.toggle("yellow-mode")
         }
-    </script>
+    </script><hr size="10px">
+    <marquee behavior="" direction="left" style="color: #bb86fc;background-color: #212121;width: 1250px;border-radius: 5px;">
+Hello! I am Shivansh.I am from Bihar, India and I am currently living in Uttar Pradesh.</option>
+I am 12 year old.I started coding in June, 2023.I have made many projects which will be linked soon to this website.</option>
+I am a HTML & CSS programmer.</option>
+        </marquee>
     <hr size="10px" />
     <button style="background-color:lightslategray">ABOUT</button>
     <button style="background-color:lightslategray">BUSINESS</button>
@@ -183,7 +191,7 @@
         <a href="index.html#ABOUT">    <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">About Me</button></a>
         <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Business</button>
         <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Contact Us</button>
-    </div><br /><Br><br><br><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
+    </div><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
     <nav class="id">=>Developer <br>
                     =>Designer
                  <br>
@@ -268,8 +276,8 @@
                         <H8 style="text-decoration:underline;cursor:pointer">THE CONTACT IS:</H8>
                     <ul type="disc">
                         <b><li>9773774802</li></b><br />
-                        <b><h9>Please Subscribe To My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>               
-                <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9>
+                        <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br><br>            
+                <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9><br><br>
                 <form>
                     <input type="checkbox" value="Yes" />Yes<br /><br />
                     <input type="checkbox" value="No" />No<br />
