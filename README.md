@@ -38,7 +38,7 @@
 <!-- end custom head snippets -->
 
   </head>
-  <body>
+  <body bgcolor="lightgrey">
     <div class="container-lg px-3 my-5 markdown-body">
       
       
@@ -81,7 +81,7 @@
 <!-- end custom head snippets -->
 
   </head>
-  <body>
+  <body bgcolor="lightgrey">
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://shibuuuo.github.io/mishra.github.io/"></a></h1>
