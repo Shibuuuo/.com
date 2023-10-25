@@ -1,15 +1,53 @@
 
 
-
-
-
-
-
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>webs | JAI SHREE RAM</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="webs" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="JAI SHREE RAM" />
+<meta property="og:description" content="JAI SHREE RAM" />
+<link rel="canonical" href="https://smwebs.github.io/webs/" />
+<meta property="og:url" content="https://smwebs.github.io/webs/" />
+<meta property="og:site_name" content="webs" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="webs" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"","name":"","url":"https://smwebs.github.io/webs/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/webs/assets/css/style.css?v=a3b41e38e01885a9ef2ae3b3c751de4470c11fa1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/webs/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      
+      
+
+      
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>S.M. WEBS</title>
@@ -28,7 +66,7 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"0","name":"0","url":"https://shibuuuo.github.io/0/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/0/assets/css/style.css?v=15358afbe7805e714554f8afd305029704b2d2c7">
+    <link rel="stylesheet" href="/0/assets/css/style.css?v=15358afbe7805e714554f8afd305029704b2d2c7" />
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -167,11 +205,11 @@
             var element = document.body;
             element.classList.toggle("yellow-mode")
         }
-    </script><hr size="10px">
-    <marquee behavior="" direction="left" style="color: #bb86fc;background-color: #212121;width: 990px;border-radius: 5px;">
+    </script><hr size="10px" />
+    <marquee behavior="" direction="left" style="color: #bb86fc;background-color: #212121;width: 890px;border-radius: 5px;">
 Hello! I am Shivansh.I am from Bihar, India and I am currently living in Uttar Pradesh.
 I am 12 year old.I started coding in June, 2023.I have made many projects which will be linked soon to this website.
-I am a HTML & CSS programmer.
+I am a HTML &amp; CSS programmer.
         </marquee>
     <hr size="10px" />
     <button style="background-color:lightslategray">ABOUT</button>
@@ -190,11 +228,11 @@ I am a HTML & CSS programmer.
         <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Business</button>
         <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Contact Us</button>
     </div><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
-    <nav class="id">=>Developer <br>
-                    =>Designer
-                 <br>
-                    =>Coder</nav>
-    <hr>
+    <nav class="id">=&gt;Developer <br />
+                    =&gt;Designer
+                 <br />
+                    =&gt;Coder</nav>
+    <hr />
         <br />
     <h1 align="center" class="h1">|ABOUT||ME|</h1> 
     <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
@@ -274,8 +312,8 @@ I am a HTML & CSS programmer.
                         <H8 style="text-decoration:underline;cursor:pointer">THE CONTACT IS:</H8>
                     <ul type="disc">
                         <b><li>9773774802</li></b><br />
-                        <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br><br>            
-                <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9><br><br>
+                        <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br /><br />            
+                <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9><br /><br />
                 <form>
                     <input type="checkbox" value="Yes" />Yes<br /><br />
                     <input type="checkbox" value="No" />No<br />
@@ -308,13 +346,21 @@ I am a HTML & CSS programmer.
     <script>anchors.add();</script>
   
 </fieldset>
-<hr><br>
+<hr /><br />
 <i class="fa-brands fa-github fa-2xl"></i>
 <div style="float: right;">
 <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i>
 <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;fill: green;"></i>
 </div>
 </body></html></div></body></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
 
 
       
