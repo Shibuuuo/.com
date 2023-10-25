@@ -13,8 +13,8 @@
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="0" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="JAI SHREE RAM" />
-<meta property="og:description" content="JAI SHREE RAM" />
+<meta name="description" content="S.M. WEBS" />
+<meta property="og:description" content="S.M. WEBS" />
 <link rel="canonical" href="https://shibuuuo.github.io/0/" />
 <meta property="og:url" content="https://shibuuuo.github.io/0/" />
 <meta property="og:site_name" content="0" />
@@ -22,7 +22,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="0" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"0","name":"0","url":"https://shibuuuo.github.io/0/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"S.M. WEBS","headline":"0","name":"0","url":"https://shibuuuo.github.io/0/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/0/assets/css/style.css?v=15358afbe7805e714554f8afd305029704b2d2c7">
