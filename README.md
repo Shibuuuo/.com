@@ -87,7 +87,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://shibuuuo.github.io/mishra.github.io/"></a></h1>
+      <h1><a href="https://shibuuuo.github.io/mishra.github.io/">THANK YOU FOR VISITING MY WEBSITE</a></h1>
       
 
       
@@ -170,7 +170,7 @@
             element.classList.toggle("yellow-mode")
         }
     </script><hr size="10px">
-    <marquee behavior="" direction="left" style="color: #bb86fc;background-color: #212121;width: 1250px;border-radius: 5px;">
+    <marquee behavior="" direction="left" style="color: #bb86fc;background-color: #212121;width: 1100px;border-radius: 5px;">
 Hello! I am Shivansh.I am from Bihar, India and I am currently living in Uttar Pradesh.</option>
 I am 12 year old.I started coding in June, 2023.I have made many projects which will be linked soon to this website.</option>
 I am a HTML & CSS programmer.</option>
