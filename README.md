@@ -168,10 +168,10 @@
             element.classList.toggle("yellow-mode")
         }
     </script><hr size="10px">
-    <marquee behavior="" direction="left" style="color: #bb86fc;background-color: #212121;width: 1050px;border-radius: 5px;">
-Hello! I am Shivansh.I am from Bihar, India and I am currently living in Uttar Pradesh.</option>
-I am 12 year old.I started coding in June, 2023.I have made many projects which will be linked soon to this website.</option>
-I am a HTML & CSS programmer.</option>
+    <marquee behavior="" direction="left" style="color: #bb86fc;background-color: #212121;width: 612.67px;border-radius: 5px;">
+Hello! I am Shivansh.I am from Bihar, India and I am currently living in Uttar Pradesh.
+I am 12 year old.I started coding in June, 2023.I have made many projects which will be linked soon to this website.
+I am a HTML & CSS programmer.
         </marquee>
     <hr size="10px" />
     <button style="background-color:lightslategray">ABOUT</button>
