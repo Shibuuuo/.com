@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -20,10 +20,10 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="webs" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"","name":"","url":"https://smwebs.github.io/webs/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"webs","name":"webs","url":"https://smwebs.github.io/webs/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/webs/assets/css/style.css?v=a3b41e38e01885a9ef2ae3b3c751de4470c11fa1">
+    <link rel="stylesheet" href="/webs/assets/css/style.css?v=1c0eed353616d5208dec01e6e89224ea141e810d">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -39,95 +39,8 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      
-      
-
-      
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>S.M. WEBS</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="0" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="JAI SHREE RAM" />
-<meta property="og:description" content="JAI SHREE RAM" />
-<link rel="canonical" href="https://shibuuuo.github.io/0/" />
-<meta property="og:url" content="https://shibuuuo.github.io/0/" />
-<meta property="og:site_name" content="0" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="0" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"0","name":"0","url":"https://shibuuuo.github.io/0/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/0/assets/css/style.css?v=15358afbe7805e714554f8afd305029704b2d2c7" />
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/0/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      
-      
-
-      
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>S.M. WEBS</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="mishra.github.io" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="JAI SHREE RAM" />
-<meta property="og:description" content="JAI SHREE RAM" />
-<link rel="canonical" href="https://shibuuuo.github.io/mishra.github.io/" />
-<meta property="og:url" content="https://shibuuuo.github.io/mishra.github.io/" />
-<meta property="og:site_name" content="mishra.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="mishra.github.io" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"mishra.github.io","name":"mishra.github.io","url":"https://shibuuuo.github.io/mishra.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/mishra.github.io/assets/css/style.css?v=87f1cb83247f3df93195377a6ccf4504772f0e52" />
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/mishra.github.io/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-          
-
-      
-<html lang="en">
+      <h1><a href="https://smwebs.github.io/webs/" style="font-family: 'Courier New', Courier, monospace;font-weight: 900;">THANK YOU FOR VISITING MY WEBSITE!</a></h1>
+      <html lang="en" scroll-behavior="smooth">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -191,6 +104,16 @@
             font-weight: 900;
             font-size: xx-large;
         }
+        .about:hover{
+            color:#bb86fc;
+            text-decoration: underline;
+            background-color: green;
+            
+        }
+        .about{
+            color: white;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body bgcolor="lightgrey">
@@ -223,16 +146,18 @@ I am a HTML &amp; CSS programmer.
     <button style="background-color:lightslategray">COMPUTER EXPERT</button>
     <hr size="10px" />
     <div id="navbar" style="border-radius: 10px;display:block;background-color:#212121; height:60px;margin-right: 2px;margin-left: 2px; text-align:center;padding-top: 0.5cm;font-family:  'Poppins', sans-serif; ">
-        <a href="index.html#ABOUT">    <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">About Me</button></a>
-        <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Business</button>
-        <button style="background-color:#212121 ;color:#bb86fc;border-color:transparent ; font-size:larger;margin-right:1cm;font-family: 'Poppins', sans-serif;text-decoration: underline; ">Contact Us</button>
-    </div><br /><br><Br><Br><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
+        <a href="#about" style="cursor: pointer;" >    <button  class="about" style="background-color: transparent;border-color: transparent;font-size: large;text-decoration: underline
+        ;;">About Me</button></a>
+        <a href="#business"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;text-decoration: underline;cursor: pointer;">Business</button></a>
+        <a href="#coding"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;text-decoration: underline;">Coding</button></a>
+    </div><br /><br /><br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
     <nav class="id">=&gt;Developer <br />
                     =&gt;Designer
                  <br />
                     =&gt;Coder</nav>
     <hr />
         <br />
+        <a name="about">
     <h1 align="center" class="h1">|ABOUT||ME|</h1> 
     <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
         <p style="text-align: center">I am a Computer/Coding expert</p>
@@ -257,9 +182,10 @@ I am a HTML &amp; CSS programmer.
                 In 2020 I was in class 5th.So, I was not able to even to walk properly because I was just laying on bed,attending classes and watching TV.I started playing in class 6th
                 around October.Everyone was making jokes on me and I had to handle many humiliations as I was not able to walk and run properly.After 5-6 days, I was sick due to Dengue for 25-30 days and admitted also.After that I stopped playing 
                 with my friends.In 2022 my school was reopened so I get chances to improve my physical fitness.In ending of 2022 I started to playing with my friends.I am writing this blog on <b>3 August 2023</b>
-                and my physical fitness is very good right now:)</p><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
+                and my physical fitness is very good right now:)</p></a><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
                         <hr size="20px" />
                  </div>
+                 <a name="coding">
                  <div class="div">
                  <nav class="nav"><center><br />
                     <h1><u>HTML-CLEARED</u><br /></h1>
@@ -301,7 +227,9 @@ I am a HTML &amp; CSS programmer.
                     </b></p></center>
                  </nav>
                  </center>
+                </a>
                  <hr size="20px" />
+                 <a name="business">
                  <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                     <h6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
                 <h7 style="text-decoration: underline;cursor:pointer">THE CHARGES ARE:</h7>
@@ -334,6 +262,8 @@ I am a HTML &amp; CSS programmer.
                     <br />
                     <input type="submit" value="Submit" />
                 </form>
+            </a>
+
                     
                 
 </ul></ul>
@@ -352,6 +282,14 @@ I am a HTML &amp; CSS programmer.
 <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;fill: green;"></i>
 </div>
 </body></html></div></body></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
 
 
       
