@@ -185,7 +185,7 @@ I am a HTML &amp; CSS programmer.
                 In 2020 I was in class 5th.So, I was not able to even to walk properly because I was just laying on bed,attending classes and watching TV.I started playing in class 6th
                 around October.Everyone was making jokes on me and I had to handle many humiliations as I was not able to walk and run properly.After 5-6 days, I was sick due to Dengue for 25-30 days and admitted also.After that I stopped playing 
                 with my friends.In 2022 my school was reopened so I get chances to improve my physical fitness.In ending of 2022 I started to playing with my friends.I am writing this blog on <b>3 August 2023</b>
-                and my physical fitness is very good right now:)</p></a><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
+                and my physical fitness is very good right now:)</p><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
                         <hr size="20px" />
                  </div>
                  <a name="coding">
