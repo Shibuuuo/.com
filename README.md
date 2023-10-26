@@ -1,13 +1,16 @@
 
-<!DOCTYPE html>
+      
+
+      
+
 <html lang="en-US">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>webs | JAI SHREE RAM</title>
+<title>S.M. WEBS</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="webs" />
 <meta property="og:locale" content="en_US" />
@@ -23,7 +26,7 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"JAI SHREE RAM","headline":"webs","name":"webs","url":"https://smwebs.github.io/webs/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/webs/assets/css/style.css?v=1c0eed353616d5208dec01e6e89224ea141e810d">
+    <link rel="stylesheet" href="/webs/assets/css/style.css?v=1c0eed353616d5208dec01e6e89224ea141e810d" />
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -146,7 +149,7 @@ I am a HTML &amp; CSS programmer.
     <button style="background-color:lightslategray">COMPUTER EXPERT</button>
     <hr size="10px" />
     <div id="navbar" style="border-radius: 10px;display:block;background-color:#212121; height:60px;margin-right: 2px;margin-left: 2px; text-align:center;padding-top: 0.5cm;font-family:  'Poppins', sans-serif; ">
-        <a href="#about" style="cursor: pointer;" >    <button  class="about" style="background-color: transparent;border-color: transparent;font-size: large;text-decoration: underline
+        <a href="#about" style="cursor: pointer;">    <button class="about" style="background-color: transparent;border-color: transparent;font-size: large;text-decoration: underline
         ;;">About Me</button></a>
         <a href="#business"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;text-decoration: underline;cursor: pointer;">Business</button></a>
         <a href="#coding"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;text-decoration: underline;">Coding</button></a>
@@ -182,7 +185,7 @@ I am a HTML &amp; CSS programmer.
                 In 2020 I was in class 5th.So, I was not able to even to walk properly because I was just laying on bed,attending classes and watching TV.I started playing in class 6th
                 around October.Everyone was making jokes on me and I had to handle many humiliations as I was not able to walk and run properly.After 5-6 days, I was sick due to Dengue for 25-30 days and admitted also.After that I stopped playing 
                 with my friends.In 2022 my school was reopened so I get chances to improve my physical fitness.In ending of 2022 I started to playing with my friends.I am writing this blog on <b>3 August 2023</b>
-                and my physical fitness is very good right now:)</p></a><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
+                and my physical fitness is very good right now:)</p>&lt;/a&gt;<i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
                         <hr size="20px" />
                  </div>
                  <a name="coding">
@@ -262,7 +265,7 @@ I am a HTML &amp; CSS programmer.
                     <br />
                     <input type="submit" value="Submit" />
                 </form>
-            </a>
+            &lt;/a&gt;
 
                     
                 
@@ -280,24 +283,30 @@ I am a HTML &amp; CSS programmer.
 <div style="float: right;">
 <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i>
 <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;fill: green;"></i>
-</div>
-</body></html></div></body></html>
 
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
 
 
       
-    </div>
+    &lt;/div&gt;
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  </body>
-</html>
+  &lt;/body&gt;
+&lt;/html&gt;
+
+
+      
+    &lt;/div&gt;
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
+
+      
+    &lt;/div&gt;
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+</a></a>
 
 
       
