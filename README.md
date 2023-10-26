@@ -124,7 +124,7 @@
       <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
     <img src="https://hitwebcounter.com/counter/counter.php?page=9545262&style=0032&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>   
-    <button onclick="myFunction()" style="color: transparent;background-color: black;border-radius: 99px;">w</button> 
+    <button onclick="myFunction()" style="color: transparent;background-color: black;border-radius: 99px;float:right;">w</button> 
     <button onclick="yourFunction()" style="color: transparent;background-color: yellow;border-radius: 99px;float: right;">w</button>
     <script>
         function myFunction() {
