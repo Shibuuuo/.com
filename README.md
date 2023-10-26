@@ -39,7 +39,7 @@
 <!-- end custom head snippets -->
 
   </head>
-  <body>
+  <body bgcolor="lightgrey">
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://smwebs.github.io/webs/" style="font-family: 'Courier New', Courier, monospace;font-weight: 900;">THANK YOU FOR VISITING MY WEBSITE!</a></h1>
@@ -120,6 +120,9 @@
     </style>
 </head>
 <body bgcolor="lightgrey">
+      <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+    <img src="https://hitwebcounter.com/counter/counter.php?page=9545262&style=0032&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>   
     <button onclick="myFunction()" style="color: transparent;background-color: black;border-radius: 99px;">w</button> 
     <button onclick="yourFunction()" style="color: transparent;background-color: yellow;border-radius: 99px;float: right;">w</button>
     <script>
