@@ -117,6 +117,10 @@
             color: white;
             cursor: pointer;
         }
+        .submit:hover{
+        background-color:lightgreen;
+        color:black;
+        }
     </style>
 </head>
 <body bgcolor="lightgrey">
@@ -267,7 +271,7 @@ I am a HTML &amp; CSS programmer.
                     <input type="radio" value="Other" />Other
                 <br />
                     <br />
-                    <input type="submit" value="Submit" />
+                    <input type="submit" value="Submit" class="submit" />
                 </form>
             
 
