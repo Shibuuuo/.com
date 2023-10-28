@@ -39,7 +39,7 @@
 <!-- end custom head snippets -->
 
   </head>
-  <body bgcolor="lightgrey">
+  <body style="background-color:lightgrey;">
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://smwebs.github.io/webs/" style="font-family: 'Courier New', Courier, monospace;font-weight: 900;">THANK YOU FOR VISITING MY WEBSITE!</a></h1>
