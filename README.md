@@ -1,5 +1,4 @@
 
-
       
 
       
@@ -50,6 +49,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <title>S.M. WEBS</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+      <link rel="favicon" href="https://cdn-icons-png.flaticon.com/128/3600/3600950.png">
       <style>
           .h1{
               text-decoration: underline;
@@ -174,12 +174,14 @@
           ;;">About Me</button></a>
           <a href="#business"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;cursor: pointer;">Business</button></a>
           <a href="#coding"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Coding</button></a>
+          <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Blog</button></a>
       </div><br /><br /><br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
       
       <div class="flex"><nav class="id">=&gt;Developer <br />
                       =&gt;Designer
                    <br />
-                      =&gt;Coder</nav>
+                      =&gt;Coder</nav> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      <img src="https://cdn-icons-png.flaticon.com/128/3600/3600950.png" alt="" srcset="">
       </div>
       <hr /><hr>
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
@@ -193,6 +195,7 @@
           <p style="text-align: center">I am a Computer/Coding expert</p>
           <p style="text-align:center;font-style:italic;">I am 12yrs old</p>
           <p style="text-align: center">I am from Bihar</p>
+          <a name="blog">
           <p style="text-align: center;font-style:italic;">I am in Class8</p><hr size="10px" />
               <details type="disc">
                   <summary style="text-align: right;color:firebrick;font-size: larger;font-family: 'Courier New', Courier, monospace;font-weight: 900;">HOW I DO CODING?(Click)</summary>
@@ -203,7 +206,7 @@
                    <hr />
                    <div align="center">
                       <button class="btn">My Blog:</button><br /><br />
-                      <div class="navbar" style="border-radius: 10px;padding: 3%;padding-top: 0.5cm;color: white;background-color: black">
+                                  <div class="navbar" style="border-radius: 10px;padding: 3%;padding-top: 0.5cm;color: white;background-color: black">
                           <p style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-weight: 900;">I will tell my entire journey of programming in this blog.
                       I started coding in June2023.I want to become a software engineer.I am only 12 year old as you know in my description.As you know that this generation is going towards gaming and devices.So,there are 2 types of people who wants to become a software engineer.
                       First, people who don't know even a single thing about devices and programming but still saying that I want to become a software engineer.(btw I was also like that few months earlier.lol)
@@ -213,12 +216,13 @@
                   around October.Everyone was making jokes on me and I had to handle many humiliations as I was not able to walk and run properly.After 5-6 days, I was sick due to Dengue for 25-30 days and admitted also.After that I stopped playing 
                   with my friends.In 2022 my school was reopened so I get chances to improve my physical fitness.In ending of 2022 I started to playing with my friends.I am writing this blog on <b>3 August 2023</b>
                   and my physical fitness is very good right now:)</p><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
-                          <hr size="20px" />
+                       <hr size="20px" />
                    </div>
                    <a name="coding">
                    <div class="div">
                    <nav class="nav"><center><br />
                       <h1><u>HTML-CLEARED</u><br /></h1>
+                   </a>
                   <p>
                       <b style="color: aqua;" class="aqua">1:</b>Making Registration Forms <br />
                      <b class="aqua">2:</b> Making Animations <br />
@@ -338,7 +342,7 @@
                   <br />
                       <br />
                       <input type="submit" value="Submit" class="submit" />
-                  </form>
+                  </form><br>
                   <button style="height: 30px;"><a href="#arrow" style="text-decoration: none;color: #100101;cursor: default;"><i class="fa-solid fa-arrow-up fa-xl"></i></a></button>
   </ul></ul>
   
