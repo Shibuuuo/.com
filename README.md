@@ -184,7 +184,9 @@
       </div>
       <hr /><hr>
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
+        <a href="c:\Users\hp\Desktop\about.html" style="color: black;text-decoration: none;cursor: default;">
       <h1 class="home"><U>Ho</U>me</h1>
+        </a>
       </fieldset>
       <hr><hr>
           <br />
