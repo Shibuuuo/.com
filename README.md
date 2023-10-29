@@ -124,9 +124,20 @@
           background-color:lightgreen;
           color:black;
           }
+          .home{
+            font-size: xx-large;
+            font-weight: 900;
+            font-family: cursive;
+            cursor: default;
+          }
+          .hover:hover{
+            background-color: aqua;
+            color: black;
+          }
       </style>
   </head>
   <body bgcolor="lightgrey">
+    <a name="arrow"></a>
         <H1>You are the visitor number:</H1>    
         <!-- hitwebcounter Code START -->
   <a href="https://www.hitwebcounter.com" target="_blank">
@@ -170,7 +181,11 @@
                    <br />
                       =&gt;Coder</nav>
       </div>
-      <hr />
+      <hr /><hr>
+      <fieldset style="width: 50px;border-radius: 10px;" class="hover">
+      <h1 class="home"><U>Ho</U>me</h1>
+      </fieldset>
+      <hr><hr>
           <br />
           <a name="about">
       <h1 align="center" class="h1">|ABOUT||ME|</h1> 
@@ -280,7 +295,6 @@
                    </center></div>
                    </div>
                    <hr size="20px">
-                   <br>
                    <center>
                     <nav class="nav2"><br />
                        <h1><u><b>What is UI designing?</b></u></h1>
@@ -325,10 +339,7 @@
                       <br />
                       <input type="submit" value="Submit" class="submit" />
                   </form>
-              
-  
-                      
-                  
+                  <button style="height: 30px;"><a href="#arrow" style="text-decoration: none;color: #100101;cursor: default;"><i class="fa-solid fa-arrow-up fa-xl"></i></a></button>
   </ul></ul>
   
   
@@ -372,4 +383,4 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
       <script>anchors.add();</script>
     
-
+  
