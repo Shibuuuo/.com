@@ -196,7 +196,7 @@
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
       <h1 class="home"><U>Ho</U>me</h1>
       </fieldset>
-    </a>
+
       <hr><hr>
           <br />
           <a name="about">
