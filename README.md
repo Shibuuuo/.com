@@ -195,7 +195,6 @@
       <a href="#home" style="text-decoration: none;color: black;cursor: default;">
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
       <h1 class="home"><U>Ho</U>me</h1>
-        </a>
       </fieldset>
     </a>
       <hr><hr>
@@ -253,7 +252,6 @@
                         <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i><br></div><br>
                         <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;"></i>
                         </p>
-                   </a>
                 </fieldset>
                    <hr size="20px">
                    <a name="coding">
