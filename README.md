@@ -3,7 +3,7 @@
 
       
 
-<html lang="en-US">
+<html lang="en-US" scroll-behavior="smooth">
     <head>
       <meta charset="UTF-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -51,6 +51,9 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
       <link rel="favicon" href="https://cdn-icons-png.flaticon.com/128/3600/3600950.png">
       <style>
+        html{
+            scroll-behavior: smooth;
+        }
           .h1{
               text-decoration: underline;
               font-family: Georgia, 'Times New Roman', Times, serif;
@@ -134,6 +137,17 @@
             background-color: aqua;
             color: black;
           }
+          .p{
+    font-family:sans-serif;
+    font-weight: 900;
+}
+.felx{
+    display: flex;
+}
+.border-radius{
+    border-radius: 20px;
+    border-color:darkviolet
+}
       </style>
   </head>
   <body bgcolor="lightgrey">
@@ -142,7 +156,7 @@
         <!-- hitwebcounter Code START -->
   <a href="https://www.hitwebcounter.com" target="_blank">
       <img src="https://hitwebcounter.com/counter/counter.php?page=9545262&style=0032&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>   
-       <button onclick="myFunction()" style="color: transparent;background-color: black;border-radius: 99px;float:right;background-color: black;color: black;">w</button> &nbsp;&nbsp;  <button onclick="yourFunction()" style="color: transparent;background-color: yellow;border-radius: 99px;float: right;">w</button>
+       <button onclick="myFunction()" style="color: white;background-color: black;border-radius: 99px;float:right;background-color: black;height: 30px;"><i class="fa-solid fa-cloud-sun fa-xl"></i></button>&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="yourFunction()" style="color: black;background-color: yellow;border-radius: 99px;float: right;height: 30px;"><i class="fa-solid fa-eye-slash fa-xl"></i></button>
       <script>
           function myFunction() {
               var element = document.body;
@@ -153,11 +167,6 @@
               element.classList.toggle("yellow-mode")
           }
       </script><hr size="10px" />
-      <marquee behavior="" direction="left" style="color: #bb86fc;background-color: #212121;width: 890px;border-radius: 5px;">
-  Hello! I am Shivansh.I am from Bihar, India and I am currently living in Uttar Pradesh.
-  I am 12 year old.I started coding in June, 2023.I have made many projects which will be linked soon to this website.
-  I am a HTML &amp; CSS programmer.
-          </marquee>
       <hr size="10px" />
       <button style="background-color:lightslategray">ABOUT</button>
       <button style="background-color:lightslategray">BUSINESS</button>
@@ -183,11 +192,12 @@
                       =&gt;Coder</nav> 
       </div>
       <hr /><hr>
+      <a href="#home" style="text-decoration: none;color: black;cursor: default;">
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
-        <a href="c:\Users\hp\Desktop\about.html" style="color: black;text-decoration: none;cursor: default;">
       <h1 class="home"><U>Ho</U>me</h1>
         </a>
       </fieldset>
+    </a>
       <hr><hr>
           <br />
           <a name="about">
@@ -219,6 +229,33 @@
                   and my physical fitness is very good right now:)</p><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
                        <hr size="20px" />
                    </div>
+                   <a name="home">
+                    <br>
+                    <fieldset class="border-radius">
+                    <h1><u>Ho</u>me</h1>
+                    <p class="p">Hello, you have reached my personal website. <br>
+                        I have attempted to make it somewhat disjoint from my “professional”/”academic” website, which is here.
+                    <br>
+                    I am Shivansh and I am currently enrolled in in middle-school(Class-8th). <br>
+                    I am a software, website and UI developer.
+                    I mostly make websites, desktop applications. <br>
+                    I am good in CS & coding.I was good in CS since 5yrs but started coding in 2021. <br>
+                    I was doing well in coding since June,2023. <br>  
+                    Also, posted some projects and works on Github.UI projects are also avaliable. <br>
+                    Most difficult projects-  <br>
+                    1: My website <br>
+                    2: Electronic Website(name:Storm)
+                    </p>
+                    <p>
+                        <b><u>Follow me on:</u></b><br><br>
+                        <div class="felx">
+                        <i class="fa-brands fa-github fa-2xl"></i>&nbsp;&nbsp;
+                        <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i><br></div><br>
+                        <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;"></i>
+                        </p>
+                   </a>
+                </fieldset>
+                   <hr size="20px">
                    <a name="coding">
                    <div class="div">
                    <nav class="nav"><center><br />
