@@ -212,7 +212,6 @@
       <a href="#home" style="text-decoration: none;color: black;cursor: default;">
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
       <h1 class="home"><U>Ho</U>me</h1>
-        </a>
       </fieldset>
     </a>
       <hr><hr>
@@ -270,7 +269,6 @@
                         <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i><br></div><br>
                         <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;"></i>
                         </p>
-                   </a>
                 </fieldset>
                    <hr size="20px">
                    <a name="coding">
@@ -377,7 +375,7 @@
                       <ul type="disc">
                           <b><li>9773774802</li></b><br />
                           <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br /><br />
-                        </fieldset><br><br>
+                        <br><br>
                         <a name="feedback">
 <fieldset style="border-color:darkblue;border-radius: 5px;">
     <p class="p">
@@ -413,7 +411,6 @@
                       <input type="submit" value="Submit" class="submit" /><br><br>
                   </form>
                   <button style="height: 30px;" class="href"><a href="#arrow" style="text-decoration: none;color: #100101;cursor: default;"><i class="fa-solid fa-arrow-up fa-xl"></i></a></button>
-  </ul></ul>
   
   
         
@@ -427,7 +424,7 @@
   <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i>
   <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;fill: green;"></i>
   
-  </fieldset>
+  
  
   <hr>
       
