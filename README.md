@@ -27,6 +27,7 @@
   <!-- End Jekyll SEO tag -->
   
       <link rel="stylesheet" href="/webs/assets/css/style.css?v=1c0eed353616d5208dec01e6e89224ea141e810d" />
+      <link rel="shortcut icon"  type="image/x-icon" href="">
       <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
   
   <!-- Setup Google Analytics -->
@@ -148,9 +149,24 @@
     border-radius: 20px;
     border-color:darkviolet
 }
+.a{
+    color: black;
+    text-decoration: none;
+    cursor: default;
+}
+.fa{
+    cursor: pointer;
+}
+.fa:hover{
+    color: blue;
+}
+.href:hover{
+    text-wrap: hello;
+    border-color: salmon;
+}
       </style>
   </head>
-  <body bgcolor="lightgrey">
+  <body >
     <a name="arrow"></a>
         <H1>You are the visitor number:</H1>    
         <!-- hitwebcounter Code START -->
@@ -166,17 +182,18 @@
               var element = document.body;
               element.classList.toggle("yellow-mode")
           }
-      </script><hr size="10px" />
+      </script>
       <hr size="10px" />
-      <button style="background-color:lightslategray">ABOUT</button>
-      <button style="background-color:lightslategray">BUSINESS</button>
-      <button style="background-color:lightslategray">FEEDBACK</button>
-      <button style="background-color:lightslategray">CODING</button>
-      <button style="background-color:lightslategray">PROGRAMMING</button>
-      <button style="background-color:lightslategray">S.M.</button>
-      <button style="background-color:lightslategray">SOFTWARES</button>
-      <button style="background-color:lightslategray">YOUNG</button>
-      <button style="background-color:lightslategray">COMPUTER EXPERT</button>
+      <hr size="10px" />
+      <button style="background-color:lightslategray"><a href="#about" class="a">ABOUT</a></button>
+      <button style="background-color:lightslategray"><a href="#business" class="a">BUSINESS</a></button>
+      <button style="background-color:lightslategray"><a href="#feedback" class="a">FEEDBACK</a></button>
+      <button style="background-color:lightslategray"><a href="#coding" class="a">CODING</a></button>
+      <button style="background-color:lightslategray"><a href="#coding" class="a">PROGRAMMING</a></button>
+      <button style="background-color:lightslategray"><a href="#ui" class="a">UI</a></button>
+      <button style="background-color:lightslategray"><a href="#coding" class="a">SOFTWARES</a></button>
+      <button style="background-color:lightslategray"><a href="#about" class="a">YOUNG</a></button>
+      <button style="background-color:lightslategray"><a href="#about" class="a">COMPUTER EXPERT</a></button>
       <hr size="10px" />
       <div id="navbar" style="border-radius: 10px;display:block;background-color:#212121; height:60px;margin-right: 2px;margin-left: 2px; text-align:center;padding-top: 0.5cm;font-family:  'Poppins', sans-serif; ">
             <a href="#about" style="cursor: pointer;">    <button class="about" style="background-color: transparent;border-color: transparent;font-size: large;
@@ -195,8 +212,9 @@
       <a href="#home" style="text-decoration: none;color: black;cursor: default;">
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
       <h1 class="home"><U>Ho</U>me</h1>
+        </a>
       </fieldset>
-
+    </a>
       <hr><hr>
           <br />
           <a name="about">
@@ -252,13 +270,13 @@
                         <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i><br></div><br>
                         <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;"></i>
                         </p>
+                   </a>
                 </fieldset>
                    <hr size="20px">
                    <a name="coding">
                    <div class="div">
                    <nav class="nav"><center><br />
                       <h1><u>HTML-CLEARED</u><br /></h1>
-                   </a>
                   <p>
                       <b style="color: aqua;" class="aqua">1:</b>Making Registration Forms <br />
                      <b class="aqua">2:</b> Making Animations <br />
@@ -269,7 +287,7 @@
                       <h1><u>CSS AND JAVASCRIPT</u><br /></h1>
                   <p>
                       <b class="aqua">1:</b>All The Properties Of CSS Is Learned <br />
-                      <b class="aqua">2:</b>All The Text Formatting, Graphics, Audio, &amp; Video elements Is Learned <br />
+                      <b class="aqua">2:</b>All The Text Formatting, Graphics, Audio, &amp; Video Elements Is Learned <br />
                       <b class="aqua">3:</b>Learning Javascript Basics <br />
                       <br />
                       
@@ -299,6 +317,7 @@
                    </center>
                   </a>
                    <hr size="20px" />
+                   <a name="ui">
                    <div class="flex">
                    <div class="nav"><center>
                     <br />
@@ -345,6 +364,7 @@
                        </b></p></center>
                     </nav>
                     </center>
+          </a>
                    <hr size="20px" />
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
@@ -356,11 +376,24 @@
                           <H8 style="text-decoration:underline;cursor:pointer">THE CONTACT IS:</H8>
                       <ul type="disc">
                           <b><li>9773774802</li></b><br />
-                          <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br /><br />            
-                  <h9 style="font-style: italic">PLEASE GIVE ME A FEEDBACK</h9><br /><br />
+                          <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br /><br />
+                        </fieldset><br><br>
+                        <a name="feedback">
+<fieldset style="border-color:darkblue;border-radius: 5px;">
+    <p class="p">
+        <span>
+            <ul type="circle" class="p" type="square">
+            -Thank you for visiting my website.
+            <br>-Please give me a feedback regarding my work, projects and obviously website. <br>
+            -I am making more updates of this website.New updates will come soon. <br>
+            </ul>
+        </span>
+    </p>
+    <hr>
+                  <h9 style="font-weight: 900;text-decoration:underline;">PLEASE GIVE ME A FEEDBACK</h9><br /><br>
                   <form>
-                      <input type="checkbox" value="Yes" />Yes<br /><br />
-                      <input type="checkbox" value="No" />No<br />
+                      <input type="radio" value="Yes" class="checkbox" />👍<br /><br />
+                      <input type="radio" value="No" class="checkbox" />👎<br />
                   </form>
                           <br />
                   <select>
@@ -373,13 +406,13 @@
                   </select>
                   <form><br />
                       Feedback:<br />
-                      <input type="text" /><br /><br />
+                      <input type="text" style="height: 40px;" /><br /><br />
                       <input type="radio" value="Other" />Other
                   <br />
                       <br />
-                      <input type="submit" value="Submit" class="submit" />
-                  </form><br>
-                  <button style="height: 30px;"><a href="#arrow" style="text-decoration: none;color: #100101;cursor: default;"><i class="fa-solid fa-arrow-up fa-xl"></i></a></button>
+                      <input type="submit" value="Submit" class="submit" /><br><br>
+                  </form>
+                  <button style="height: 30px;" class="href"><a href="#arrow" style="text-decoration: none;color: #100101;cursor: default;"><i class="fa-solid fa-arrow-up fa-xl"></i></a></button>
   </ul></ul>
   
   
@@ -388,16 +421,15 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
       <script>anchors.add();</script>
     
-  </fieldset>
   <hr /><br />
   <i class="fa-brands fa-github fa-2xl"></i>
   <div style="float: right;">
   <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i>
   <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;fill: green;"></i>
   
-  
-  
-        
+  </fieldset>
+ 
+  <hr>
       
       <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
       <script>anchors.add();</script>
