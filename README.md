@@ -377,7 +377,6 @@
                           <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br /><br />
                         <br><br>
                         <a name="feedback">
-<fieldset style="border-color:darkblue;border-radius: 5px;">
     <p class="p">
         <span>
             <ul type="circle" class="p" type="square">
