@@ -204,10 +204,10 @@
           <a href="#business"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;cursor: pointer;">Business</button></a>
           <a href="#coding"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Coding</button></a>
           <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Blog</button></a>
-          <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Projects</button>
-      </div><br /><br /><br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
-      
-      <div class="flex"><nav class="id">=&gt;Developer <br />
+          <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Projects</button></a>
+      </div>
+      <br /><br /><br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
+      <nav class="id">=&gt;Developer <br />
                       =&gt;Designer
                    <br />
                       =&gt;Coder</nav> 
