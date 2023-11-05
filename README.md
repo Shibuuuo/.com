@@ -373,12 +373,9 @@
 <u><b>PROJECTS:</b></u>
                     </h1><hr>
                    </center>
-                   <img src="recipi.png" alt="" sizes="" srcset="" style="float: left;width:400px;height: 300px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <img src="prog course.png" alt="" srcset="" style="width: 300px;">
-                   <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 500px;height: 300PX;"><hr>
-                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><u>Recipe Website Clone</u></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                   <b><u>Joining Course Form</u></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b><u>Amazon Clone</u></b>
+                   <img src="recipi.png" alt="" sizes="" srcset="" style="float: left;width:400px;height: 250px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="prog course.png" alt="" srcset="" style="width: 250px;">
+                   <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 400px;height: 300PX;"><hr>
                    <br><br>
                    <hr size="20px" />
                    <a name="business">
