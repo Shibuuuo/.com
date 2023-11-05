@@ -213,7 +213,7 @@
                       =&gt;Coder</nav> 
       
       <hr /><hr>
-      <a href="#home" style="text-decoration: none;color: black;cursor: default;">
+      <a href="C:\Users\hp\Desktop\about.html" style="text-decoration: none;color: black;cursor: default;">
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
       <h1 class="home"><U>Ho</U>me</h1>
       </fieldset>
