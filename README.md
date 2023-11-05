@@ -164,6 +164,9 @@
     text-wrap: hello;
     border-color: salmon;
 }
+.nav:hover{
+    color: #bb86fc;
+}
       </style>
   </head>
   <body >
@@ -201,6 +204,7 @@
           <a href="#business"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;cursor: pointer;">Business</button></a>
           <a href="#coding"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Coding</button></a>
           <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Blog</button></a>
+          <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Projects</button>
       </div><br /><br /><br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
       
       <div class="flex"><nav class="id">=&gt;Developer <br />
@@ -363,6 +367,19 @@
                     </nav>
                     </center>
           </a>
+                   <hr size="20px" />
+                   <center>
+                    <h1>
+<u><b>PROJECTS:</b></u>
+                    </h1><hr>
+                   </center>
+                   <img src="recipi.png" alt="" sizes="" srcset="" style="float: left;width:400px;height: 300px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="prog course.png" alt="" srcset="" style="width: 300px;">
+                   <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 500px;height: 300PX;"><hr>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><u>Recipe Website Clone</u></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <b><u>Joining Course Form</u></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b><u>Amazon Clone</u></b>
+                   <br><br>
                    <hr size="20px" />
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
