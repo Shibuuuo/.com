@@ -377,7 +377,7 @@
                    <img src="recipi.png" alt="" sizes="" srcset="" style="float: left;width:400px;height: 250px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <img src="prog course.png" alt="" srcset="" style="width: 250px;">
                    <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 400px;height: 300PX;">
-                   <br><br><br><br><br><br>
+                   <br><br><br><br><br><br><br><br><br>
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                       <h6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
@@ -390,6 +390,7 @@
                           <b><li>9773774802</li></b><br />
                           <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br /><br />
                         <br><br>
+                        <hr>
                         <a name="feedback">
     <p class="p">
         <span>
