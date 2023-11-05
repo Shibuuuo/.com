@@ -375,8 +375,8 @@
                    </center>
                    <img src="recipi.png" alt="" sizes="" srcset="" style="float: left;width:400px;height: 250px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <img src="prog course.png" alt="" srcset="" style="width: 250px;">
-                   <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 400px;height: 300PX;"><hr>
-                   <br><br>
+                   <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 400px;height: 300PX;">
+                   <br><br><br><br><br><br><br><br><br><br><br><br>
                    <hr size="20px" />
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
