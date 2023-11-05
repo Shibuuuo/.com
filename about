@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | S.M. WEBS</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+.p{
+    font-family:sans-serif;
+    font-weight: 900;
+}
+.felx{
+    display: flex;
+}
+.dark-mode{
+    background-color:#212121;
+    color: whitesmoke;
+}
+    </style>
+</head>
+<body>
+    <button style="color: transparent;background-color: black;" onclick="myFunction()">s</button>
+    <script>
+        function myFunction() {
+            var element = document.body;
+            element.classList.toggle("dark-mode")
+        }
+    </script>
+    <h1><u>Ho</u>me</h1>
+    <p class="p">Hello, you have reached my personal website. <br>
+        I have attempted to make it somewhat disjoint from my “professional”/”academic” website, which is here.
+    <br>
+    I am Shivansh and I am currently enrolled in in middle-school(Class-8th). <br>
+    I am a software, website and UI developer.
+    I mostly make websites, desktop applications. <br>
+    I am good in CS & coding.I was good in CS since 5yrs but started coding in 2021. <br>
+    I was doing well in coding since June,2023. <br>  
+    Also, posted some projects and works on Github.UI projects are also avaliable. <br>
+    Most difficult projects-  <br>
+    1: My website <br>
+    2: Electronic Website(name:Storm)
+    </p>
+    <p>
+        <b><u>Follow me on:</u></b><br><br>
+        <div class="felx">
+        <i class="fa-brands fa-github fa-2xl"></i>&nbsp;&nbsp;
+        <i class="fa-brands fa-youtube fa-2xl" style="color: red;"></i><br></div><br>
+        <i class="fa-brands fa-whatsapp fa-2xl" style="color: green;"></i>
+    </p>
+</body>
+</html>
