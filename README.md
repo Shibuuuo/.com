@@ -43,7 +43,7 @@
     <body bgcolor="lightgrey">
       <div class="container-lg px-3 my-5 markdown-body">
         
-        <h1><a href="https://smwebs.github.io/webs/" style="font-family: 'Courier New', Courier, monospace;font-weight: 900;text-decoration: none;cursor: default;color: black;">THANK YOU FOR VISITING MY WEBSITE!</a></h1>
+        <h1><a href="https://smwebs.github.io/webs/" style="font-family: 'Courier New', Courier, monospace;font-weight: 900;text-decoration: none;cursor: default;color: rgb(136, 24, 24);">IF YOU CAN OPEN THIS WEBSITE ON TABLET/DESKTOP, PLS OPEN ON IT FOR BETTER EXPERIENCE</a></h1>
         <html lang="en" scroll-behavior="smooth">
   <head>
       <meta charset="UTF-8" />
@@ -204,7 +204,7 @@
           <a href="#business"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;cursor: pointer;">Business</button></a>
           <a href="#coding"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Coding</button></a>
           <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Blog</button></a>
-          <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Projects</button></a>
+          <a href="#projects"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Projects</button></a>
       </div>
       <br /><br /><br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
       <nav class="id">=&gt;Developer <br />
@@ -213,7 +213,7 @@
                       =&gt;Coder</nav> 
       
       <hr /><hr>
-      <a href="C:\Users\hp\Desktop\about.html" style="text-decoration: none;color: black;cursor: default;">
+      <a href="#home" style="text-decoration: none;color: black;cursor: default;">
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
       <h1 class="home"><U>Ho</U>me</h1>
       </fieldset>
@@ -245,7 +245,7 @@
                   I am living in my society since 8 years, but didn't went to play in ground ever and also didn't made any friend.As you know that 2020-2021 was the crucial years for us due to Corona.
                   In 2020 I was in class 5th.So, I was not able to even to walk properly because I was just laying on bed,attending classes and watching TV.I started playing in class 6th
                   around October.Everyone was making jokes on me and I had to handle many humiliations as I was not able to walk and run properly.After 5-6 days, I was sick due to Dengue for 25-30 days and admitted also.After that I stopped playing 
-                  with my friends.In 2022 my school was reopened so I get chances to improve my physical fitness.In ending of 2022 I started to playing with my friends.I am writing this blog on <b>3 August 2023</b>
+                  with my friends.In 2022 my school was reopened so I got chances to improve my physical fitness.In ending of 2022 I started to play with my friends.I am writing this blog on <b>3 August 2023</b>
                   and my physical fitness is very good right now:)</p><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
                        <hr size="20px" />
                    </div>
@@ -260,7 +260,7 @@
                     I am a software, website and UI developer.
                     I mostly make websites, desktop applications. <br>
                     I am good in CS & coding.I was good in CS since 5yrs but started coding in 2021. <br>
-                    I was doing well in coding since June,2023. <br>  
+                    I am doing well in coding since June,2023. <br>  
                     Also, posted some projects and works on Github.UI projects are also avaliable. <br>
                     Most difficult projects-  <br>
                     1: My website <br>
@@ -368,15 +368,16 @@
                     </center>
           </a>
                    <hr size="20px" />
+                   <a name="projects">
                    <center>
                     <h1>
 <u><b>PROJECTS:</b></u>
                     </h1><hr>
                    </center>
-                   <img src="recipi.png" alt="" sizes="" srcset="" style="float: left;width:400px;height: 250px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <img src="recipi.png" alt="" sizes="" srcset="" style="float: left;width:400px;height: 250px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <img src="prog course.png" alt="" srcset="" style="width: 250px;">
                    <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 400px;height: 300PX;">
-                   <br><br><br><br><br><br><br><br><br><br><br><br>
+                   <br><br><br><br><br><br>
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                       <h6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
