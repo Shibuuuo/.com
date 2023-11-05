@@ -211,7 +211,7 @@
                       =&gt;Designer
                    <br />
                       =&gt;Coder</nav> 
-      </div>
+      
       <hr /><hr>
       <a href="#home" style="text-decoration: none;color: black;cursor: default;">
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
@@ -377,7 +377,6 @@
                     <img src="prog course.png" alt="" srcset="" style="width: 250px;">
                    <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 400px;height: 300PX;">
                    <br><br><br><br><br><br><br><br><br><br><br><br>
-                   <hr size="20px" />
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                       <h6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
