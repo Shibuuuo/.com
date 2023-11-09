@@ -166,6 +166,7 @@
 }
 .nav:hover{
     color: #bb86fc;
+    border-color: aqua;
 }
       </style>
   </head>
@@ -205,6 +206,7 @@
           <a href="#coding"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Coding</button></a>
           <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Blog</button></a>
           <a href="#projects"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Projects</button></a>
+
       </div>
       <br /><br /><br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
       <nav class="id">=&gt;Developer <br />
@@ -215,7 +217,7 @@
       <hr /><hr>
       <a href="#home" style="text-decoration: none;color: black;cursor: default;">
       <fieldset style="width: 50px;border-radius: 10px;" class="hover">
-      <h1 class="home"><U>Ho</U>me</h1>
+      <h1 class="home"><U>Res</U>ume</h1>
       </fieldset>
     </a>
       <hr><hr>
@@ -231,7 +233,7 @@
               <details type="disc">
                   <summary style="text-align: right;color:firebrick;font-size: larger;font-family: 'Courier New', Courier, monospace;font-weight: 900;">HOW I DO CODING?(Click)</summary>
                    <p style="text-align: right;font-size: large;font-family: 'Courier New', Courier, monospace;font-weight: 900;">I am a HTML/CSS programmer.I do coding most likely everyday.Coding is my passion/hobby</p><br />
-                   <p style="text-align: right;font-size: large;font-family: 'Courier New', Courier, monospace;font-weight: 900;">I use<mark style="color:darkred">Visual Studio Code Editor</mark> for coding</p><br />
+                   <p style="text-align: right;font-size: large;font-family: 'Courier New', Courier, monospace;font-weight: 900;">I use <mark style="color:darkred">Visual Studio Code Editor</mark> for coding</p><br />
                    <p style="text-align: right;font-size: large;font-family: 'Courier New', Courier, monospace;font-weight: 900;">I use Windows11 Home for coding</p>
                    </details>
                    <hr />
@@ -265,6 +267,31 @@
                     Most difficult projects-  <br>
                     1: My website <br>
                     2: Electronic Website(name:Storm)
+                    </p>
+                    <h1><u>Exper</u>ience</h1>
+                    <p class="p">
+                        Worked as a professional CS programmer in my area and made many websites for the shops around me. <br>
+                        I have been designing many types of UI since few months. <br>
+                        Figma for UI designing and Visual Studio Code for coding. <br>
+                        I started coding in 2021. <br>
+                        I started UI designing in end of 2022.                        
+                        <br>
+                        I have making websites and animations for every festival. 
+                    </p>
+                    <h1><u>Pla</u>ns</h1>
+                    <p class="p">
+                        I am starting to make clone of famous websites like- Amazon, Flipkart, etc. <br>
+                        Making websites is decent for me, so now I am starting to make Android softwares and apps. <br>
+                        I will learn advance JS, Python and C++ or C language. <br>
+                        Accepting orders related to UI of apps.
+                    </p>
+                    <h1><u>How to earn money</u> without degree?</h1>
+                    <p class="p">
+                        Start making websites for the stationary stores, grocery stores or barber shop near you
+                        to make <br>their work easier.Instead of asking money immediately, give them opportunity to have demo<br>
+                        of website for 2-3 week.If they like it and it will make them easier to accept the orders, so they<br>may buy it.
+                        Make a reasonable rate for them like Rs.100 to Rs.250 at starting.Like this, you can <br>earn money and
+                        you will be known as a "professional CS programmer". 
                     </p>
                     <p>
                         <b><u>Follow me on:</u></b><br><br>
@@ -304,7 +331,6 @@
                       <b class="aqua">3:</b>Online Grocery Website <br />
                       <b class="aqua">4:</b>Coding Form <br />
                        <br />
-  
                   </p>
                   </center></nav>
                   </div>
@@ -318,8 +344,32 @@
                    </nav>
                    </center>
                   </a>
-                   <hr size="20px" />
-                   <a name="ui">
+                  <hr size="20px" />
+                  <a name="projects">
+                  <center><h1><u><b>PROJECTS:</b></u></h1></center>
+                  <div class="div">
+                  <nav class="nav"><center><br><br>
+                    <img src="Amazon clone.png" alt="" srcset="" height="200px" width="350px"><br><br>
+                <b><u>Clone of Amazon.com</u></b>
+                </center>
+                  </nav>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <div class="nav"><br><br>
+                    <center>
+                        <img src="recipi.png" alt="" srcset="" height="200px" width="350px"><br><br>
+                        <u><b>Recipe website</b></u><br>
+                    </center>
+                  </div>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div class="nav"><center><br><br>   
+    <img src="prog course.png" alt="" srcset="" height="200px" width="350px"><br><br>
+    <b><u>Admission form of coding</u></b>
+    </center>
+</div>
+                  </div>
+                  </a>
+                  <hr size="20px" />
+                  <a name="ui">
                    <div class="flex">
                    <div class="nav"><center>
                     <br />
@@ -368,16 +418,6 @@
                     </center>
           </a>
                    <hr size="20px" />
-                   <a name="projects">
-                   <center>
-                    <h1>
-<u><b>PROJECTS:</b></u>
-                    </h1><hr>
-                   </center>
-                   <img src="recipi.png" alt="" sizes="" srcset="" style="float: left;width:400px;height: 250px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <img src="prog course.png" alt="" srcset="" style="width: 250px;">
-                   <img src="Amazon clone.png" alt="" srcset="" style="float: right;width: 400px;height: 300PX;">
-                   <br><br><br><br><br><br><br><br><br>
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                       <h6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
