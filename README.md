@@ -85,7 +85,7 @@
               background-color: black;
               height: 300px;
               border-radius: 10px;
-              border-color: aqua;
+              border-color: blue;
               width: 399px    ;
               color: white;
           }
@@ -285,14 +285,6 @@
                         I will learn advance JS, Python and C++ or C language. <br>
                         Accepting orders related to UI of apps.
                     </p>
-                    <h1><u>How to earn money</u> without degree?</h1>
-                    <p class="p">
-                        Start making websites for the stationary stores, grocery stores or barber shop near you
-                        to make <br>their work easier.Instead of asking money immediately, give them opportunity to have demo<br>
-                        of website for 2-3 week.If they like it and it will make them easier to accept the orders, so they<br>may buy it.
-                        Make a reasonable rate for them like Rs.100 to Rs.250 at starting.Like this, you can <br>earn money and
-                        you will be known as a "professional CS programmer". 
-                    </p>
                     <p>
                         <b><u>Follow me on:</u></b><br><br>
                         <div class="felx">
@@ -349,20 +341,20 @@
                   <center><h1><u><b>PROJECTS:</b></u></h1></center>
                   <div class="div">
                   <nav class="nav"><center><br><br>
-                    <img src="Amazon clone.png" alt="" srcset="" height="200px" width="350px"><br><br>
+                    <img src="Amazon clone.png" alt="" srcset="" height="200px" width="325px"><br>
                 <b><u>Clone of Amazon.com</u></b>
                 </center>
                   </nav>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <div class="nav"><br><br>
                     <center>
-                        <img src="recipi.png" alt="" srcset="" height="200px" width="350px"><br><br>
+                        <img src="recipi.png" alt="" srcset="" height="200px" width="325px"><br>
                         <u><b>Recipe website</b></u><br>
                     </center>
                   </div>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class="nav"><center><br><br>   
-    <img src="prog course.png" alt="" srcset="" height="200px" width="350px"><br><br>
+    <img src="prog course.png" alt="" srcset="" height="200px" width="325px"><br>
     <b><u>Admission form of coding</u></b>
     </center>
 </div>
