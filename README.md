@@ -341,20 +341,20 @@
                   <center><h1><u><b>PROJECTS:</b></u></h1></center>
                   <div class="div">
                   <nav class="nav"><center><br><br>
-                    <img src="Amazon clone.png" alt="" srcset="" height="200px" width="325px"><br>
+                    <img src="Amazon clone.png" alt="" srcset="" height="200px" width="300px"><br>
                 <b><u>Clone of Amazon.com</u></b>
                 </center>
                   </nav>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <div class="nav"><br><br>
                     <center>
-                        <img src="recipi.png" alt="" srcset="" height="200px" width="325px"><br>
+                        <img src="recipi.png" alt="" srcset="" height="200px" width="300px"><br>
                         <u><b>Recipe website</b></u><br>
                     </center>
                   </div>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class="nav"><center><br><br>   
-    <img src="prog course.png" alt="" srcset="" height="200px" width="325px"><br>
+    <img src="prog course.png" alt="" srcset="" height="200px" width="300px"><br>
     <b><u>Admission form of coding</u></b>
     </center>
 </div>
