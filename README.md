@@ -17,6 +17,7 @@
   <meta name="description" content="JAI SHREE RAM" />
   <meta property="og:description" content="JAI SHREE RAM" />
   <link rel="canonical" href="https://smwebs.github.io/webs/" />
+      <link rel="icon" type="image" href="C:\Users\hp\Downloads\favicon.ico">
   <meta property="og:url" content="https://smwebs.github.io/webs/" />
   <meta property="og:site_name" content="webs" />
   <meta property="og:type" content="website" />
@@ -51,6 +52,7 @@
       <title>S.M. WEBS</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
       <link rel="favicon" href="https://cdn-icons-png.flaticon.com/128/3600/3600950.png">
+      <link rel="icon" type="image" href="C:\Users\hp\Downloads\favicon.ico">
       <style>
         html{
             scroll-behavior: smooth;
