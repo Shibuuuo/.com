@@ -236,7 +236,7 @@ border-radius: 10px;
           <a href="#blog"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Blog</button></a>
           <a href="#projects"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Projects</button></a>
 
-      </div>
+      
       <br /><br />
       </div>
       <br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
