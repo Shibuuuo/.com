@@ -17,7 +17,6 @@
   <meta name="description" content="JAI SHREE RAM" />
   <meta property="og:description" content="JAI SHREE RAM" />
   <link rel="canonical" href="https://smwebs.github.io/webs/" />
-      <link rel="icon" type="image" href="C:\Users\hp\Downloads\favicon.ico">
   <meta property="og:url" content="https://smwebs.github.io/webs/" />
   <meta property="og:site_name" content="webs" />
   <meta property="og:type" content="website" />
@@ -52,7 +51,6 @@
       <title>S.M. WEBS</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
       <link rel="favicon" href="https://cdn-icons-png.flaticon.com/128/3600/3600950.png">
-      <link rel="icon" type="image" href="C:\Users\hp\Downloads\favicon.ico">
       <style>
         html{
             scroll-behavior: smooth;
@@ -170,6 +168,35 @@
     color: #bb86fc;
     border-color: aqua;
 }
+.vertical{
+    background-color:#212121;
+    width: 80px;
+    height: 350px;
+}
+.dy{
+    background-color: #212121;
+    height: 50px;
+    width: 100px;
+float: right;
+border-radius: 10px;
+}
+.click{
+    background-color: black;
+    border-radius: 30%;
+    color: cornflowerblue;
+}
+.href{
+    color: black;
+    font-family: cursive;
+    font-weight: 900;
+}
+.pic-nav{
+    background-color: #100101;
+    border-radius: 10px;
+    height: 340px;
+    width: 375px;
+    border: linear-gradient(to right, red, purple);
+}
       </style>
   </head>
   <body >
@@ -178,7 +205,7 @@
         <!-- hitwebcounter Code START -->
   <a href="https://www.hitwebcounter.com" target="_blank">
       <img src="https://hitwebcounter.com/counter/counter.php?page=9545262&style=0032&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>   
-       <button onclick="myFunction()" style="color: white;background-color: black;border-radius: 99px;float:right;background-color: black;height: 30px;"><i class="fa-solid fa-cloud-sun fa-xl"></i></button>&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="yourFunction()" style="color: black;background-color: yellow;border-radius: 99px;float: right;height: 30px;"><i class="fa-solid fa-eye-slash fa-xl"></i></button>
+       <button onclick="myFunction()" style="color: white;background-color: black;border-radius: 99px;float:right;background-color: black;height: 30px;"><i class="fa-solid fa-cloud-sun fa-xl"></i></button>&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="yourFunction()" style="color: black;background-color: yellow;border-radius: 99px;float: right;height: 30px;"><i class="fa-solid fa-eye-slash fa-xl"></i></button></div>
       <script>
           function myFunction() {
               var element = document.body;
@@ -210,7 +237,9 @@
           <a href="#projects"><button class="about" style="background-color: transparent;border-color: transparent;font-size: large;">Projects</button></a>
 
       </div>
-      <br /><br /><br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
+      <br /><br />
+      </div>
+      <br /><br /><marquee width="100%" behavior="alternate" bgcolor="lightyellow" style="text-decoration:underline;border-radius:10px">&gt;--S.M. WEBS--&lt;</marquee><hr />
       <nav class="id">=&gt;Developer <br />
                       =&gt;Designer
                    <br />
@@ -224,6 +253,7 @@
     </a>
       <hr><hr>
           <br />
+<br>
           <a name="about">
       <h1 align="center" class="h1">|ABOUT||ME|</h1> 
       <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
@@ -251,6 +281,13 @@
                   around October.Everyone was making jokes on me and I had to handle many humiliations as I was not able to walk and run properly.After 5-6 days, I was sick due to Dengue for 25-30 days and admitted also.After that I stopped playing 
                   with my friends.In 2022 my school was reopened so I got chances to improve my physical fitness.In ending of 2022 I started to play with my friends.I am writing this blog on <b>3 August 2023</b>
                   and my physical fitness is very good right now:)</p><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
+                       <hr size="20px" />
+                       <h1><u>Personal Picture-</u></h1><hr>
+                       <center>
+                        <div class="pic-nav"><br>
+<img src="Background.png" alt="" srcset="" height="290px" style="border-radius: 20px;border-color: purple;">
+                        </div>
+                       </center>
                        <hr size="20px" />
                    </div>
                    <a name="home">
@@ -343,20 +380,20 @@
                   <center><h1><u><b>PROJECTS:</b></u></h1></center>
                   <div class="div">
                   <nav class="nav"><center><br><br>
-                    <img src="Amazon clone.png" alt="" srcset="" height="200px" width="300px"><br>
+                    <img src="Amazon clone.png" alt="" srcset="" height="200px" width="325px"><br>
                 <b><u>Clone of Amazon.com</u></b>
                 </center>
                   </nav>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <div class="nav"><br><br>
                     <center>
-                        <img src="recipi.png" alt="" srcset="" height="200px" width="300px"><br>
+                        <img src="recipi.png" alt="" srcset="" height="200px" width="325px"><br>
                         <u><b>Recipe website</b></u><br>
                     </center>
                   </div>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class="nav"><center><br><br>   
-    <img src="prog course.png" alt="" srcset="" height="200px" width="300px"><br>
+    <img src="prog course.png" alt="" srcset="" height="200px" width="325px"><br>
     <b><u>Admission form of coding</u></b>
     </center>
 </div>
@@ -411,6 +448,20 @@
                     </nav>
                     </center>
           </a>
+          <input type="button" onclick="alert('JAI SHREE RAM 🙏🙏')" value="Click Me!" class="click">
+                   <hr size="20px" />
+                   <center><h1><u><b>Follow me on:</b></u></h1></center><hr><br>
+                   <div class="flex">
+                   <button style="background-color: red;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent;">
+                <p><u><b><a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg" class="href">Follow me on Youtube</b></u></a></p>
+                </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <button style="background-color: greenyellow;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent">
+                <p><u><b><a href="https://web.whatsapp.com/" class="href">Follow me on Whatsapp</b></u></a></p>
+                </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <button style="background-color: #212121;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent">
+                <p><u><b><a href="https://www.github.com/" class="href" style="color: white;">Follow me on Github</b></u></a></p>
+                </button>
+            </div>
                    <hr size="20px" />
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
