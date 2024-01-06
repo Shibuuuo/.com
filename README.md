@@ -453,25 +453,25 @@ border-radius: 10px;
                    <center><h1><u><b>Follow me on:</b></u></h1></center><hr><br>
                    <div class="flex">
                    <button style="background-color: red;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent;">
-                <p><u><b><a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg" class="href">Follow me on Youtube</b></u></a></p>
-                </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <p><u><b><a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg" class="href">Follow me on Youtube</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <button style="background-color: greenyellow;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent">
-                <p><u><b><a href="https://web.whatsapp.com/" class="href">Follow me on Whatsapp</b></u></a></p>
-                </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <p><u><b><a href="https://web.whatsapp.com/" class="href">Follow me on Whatsapp</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <button style="background-color: #212121;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent">
-                <p><u><b><a href="https://www.github.com/" class="href" style="color: white;">Follow me on Github</b></u></a></p>
-                </button>
-            </div>
+                <p><u><b><a href="https://www.github.com/" class="href" style="color: white;">Follow me on Github</a>
+                
+
                    <hr size="20px" />
                    <a name="business">
                    <fieldset style="border-radius: 80px;border-color:darkblue"><h5 style="text-align: center;text-decoration:underline">|BUSINESS|</h5>
                       <h6>IF YOU NEED ANY PROJECT FEEL FREE TO CALL ON[9773774802]</h6> 
                   <h7 style="text-decoration: underline;cursor:pointer">THE CHARGES ARE:</h7>
-                  <ul type="disc">
+                  
                       <li>FOR STATIC WEBPAGE:70RS</li>
                       <li>FOR DYNAMIC WEBPAGE:150RS</li>
                           <H8 style="text-decoration:underline;cursor:pointer">THE CONTACT IS:</H8>
-                      <ul type="disc">
+                      
                           <b><li>9773774802</li></b><br />
                           <b><h9>My Youtube Channel:<a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg">https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg</a></h9></b>   <br /><br />
                         <br><br>
@@ -552,3 +552,4 @@ border-radius: 10px;
       <script>anchors.add();</script>
     
   
+
