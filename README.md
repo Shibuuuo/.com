@@ -449,17 +449,7 @@ border-radius: 10px;
                     </center>
           </a>
           <input type="button" onclick="alert('JAI SHREE RAM 🙏🙏')" value="Click Me!" class="click">
-                   <hr size="20px" />
-                   <center><h1><u><b>Follow me on:</b></u></h1></center><hr><br>
-                   <div class="flex">
-                   <button style="background-color: red;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent;">
-                <p><u><b><a href="https://www.youtube.com/channel/UCSjB7NNez6CGy0sdDTV57Bg" class="href">Follow me on Youtube</a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <button style="background-color: greenyellow;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent">
-                <p><u><b><a href="https://web.whatsapp.com/" class="href">Follow me on Whatsapp</a>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <button style="background-color: #212121;height: 50px;width: 230px;border-color:white;border-radius: 50px;border-color: transparent">
-                <p><u><b><a href="https://www.github.com/" class="href" style="color: white;">Follow me on Github</a>
+
                 
 
                    <hr size="20px" />
@@ -552,4 +542,3 @@ border-radius: 10px;
       <script>anchors.add();</script>
     
   
-
