@@ -205,7 +205,7 @@ border-radius: 10px;
         <!-- hitwebcounter Code START -->
   <a href="https://www.hitwebcounter.com" target="_blank">
       <img src="https://hitwebcounter.com/counter/counter.php?page=9545262&style=0032&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>   
-       <button onclick="myFunction()" style="color: white;background-color: black;border-radius: 99px;float:right;background-color: black;height: 30px;"><i class="fa-solid fa-cloud-sun fa-xl"></i></button>&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="yourFunction()" style="color: black;background-color: yellow;border-radius: 99px;float: right;height: 30px;"><i class="fa-solid fa-eye-slash fa-xl"></i></button></div>
+       <button onclick="myFunction()" style="color: white;background-color: black;border-radius: 99px;float:right;background-color: black;height: 30px;"><i class="fa-solid fa-cloud-sun fa-xl"></i></button>&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="yourFunction()" style="color: black;background-color: yellow;border-radius: 99px;float: right;height: 30px;"><i class="fa-solid fa-eye-slash fa-xl"></i></button>
       <script>
           function myFunction() {
               var element = document.body;
