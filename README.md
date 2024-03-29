@@ -257,8 +257,8 @@ border-radius: 10px;
           <a name="about">
       <h1 align="center" class="h1">|ABOUT||ME|</h1> 
       <p style="text-align: center;font-style:italic;">I am Shivansh Mishra</p>
-          <p style="text-align: center">I am a Computer/Coding expert</p>
-          <p style="text-align:center;font-style:italic;">I am 12yrs old</p>
+          <p style="text-align: center">I am a Computer/Coding/UI designing expert</p>
+          <p style="text-align:center;font-style:italic;">I am 13yrs old</p>
           <p style="text-align: center">I am from Bihar</p>
           <a name="blog">
           <p style="text-align: center;font-style:italic;">I am in Class8</p><hr size="10px" />
@@ -273,7 +273,7 @@ border-radius: 10px;
                       <button class="btn">My Blog:</button><br /><br />
                                   <div class="navbar" style="border-radius: 10px;padding: 3%;padding-top: 0.5cm;color: white;background-color: black">
                           <p style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-weight: 900;">I will tell my entire journey of programming in this blog.
-                      I started coding in June2023.I want to become a software engineer.I am only 12 year old as you know in my description.As you know that this generation is going towards gaming and devices.So,there are 2 types of people who wants to become a software engineer.
+                      I started coding in June2023.I want to become a software engineer.I am 13 year old as you know in my description.As you know that this generation is going towards gaming and devices.So,there are 2 types of people who wants to become a software engineer.
                       First, people who don't know even a single thing about devices and programming but still saying that I want to become a software engineer.(btw I was also like that few months earlier.lol)
                   2nd, people who actually wants to become a software engineer and know most of the things in computer.Many talks about computer is done, let's move on to my blog.In sports I like to play Table-Tennis.
                   I am living in my society since 8 years, but didn't went to play in ground ever and also didn't made any friend.As you know that 2020-2021 was the crucial years for us due to Corona.
