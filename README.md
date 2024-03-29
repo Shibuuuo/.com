@@ -261,7 +261,7 @@ border-radius: 10px;
           <p style="text-align:center;font-style:italic;">I am 13yrs old</p>
           <p style="text-align: center">I am from Bihar</p>
           <a name="blog">
-          <p style="text-align: center;font-style:italic;">I am in Class8</p><hr size="10px" />
+          <p style="text-align: center;font-style:italic;">I am in Class 9</p><hr size="10px" />
               <details type="disc">
                   <summary style="text-align: right;color:firebrick;font-size: larger;font-family: 'Courier New', Courier, monospace;font-weight: 900;">HOW I DO CODING?(Click)</summary>
                    <p style="text-align: right;font-size: large;font-family: 'Courier New', Courier, monospace;font-weight: 900;">I am a HTML/CSS programmer.I do coding most likely everyday.Coding is my passion/hobby</p><br />
