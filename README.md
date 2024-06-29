@@ -282,14 +282,7 @@ border-radius: 10px;
                   with my friends.In 2022 my school was reopened so I got chances to improve my physical fitness.In ending of 2022 I started to play with my friends.I am writing this blog on <b>3 August 2023</b>
                   and my physical fitness is very good right now:)</p><i class="fa-regular fa-face-smile fa-fade fa-2xl"></i></div>
                        <hr size="20px" />
-                       <h1><u>Personal Picture-</u></h1><hr>
-                       <center>
-                        <div class="pic-nav"><br>
-<img src="Background.png" alt="" srcset="" height="290px" style="border-radius: 20px;border-color: purple;">
-                        </div>
-                       </center>
-                       <hr size="20px" />
-                   </div>
+
                    <a name="home">
                     <br>
                     <fieldset class="border-radius">
@@ -297,11 +290,11 @@ border-radius: 10px;
                     <p class="p">Hello, you have reached my personal website. <br>
                         I have attempted to make it somewhat disjoint from my “professional”/”academic” website, which is here.
                     <br>
-                    I am Shivansh and I am currently enrolled in in middle-school(Class-8th). <br>
+                    I am Shivansh and I am currently enrolled in in high-school(Class-9th). <br>
                     I am a software, website and UI developer.
                     I mostly make websites, desktop applications. <br>
                     I am good in CS & coding.I was good in CS since 5yrs but started coding in 2021. <br>
-                    I am doing well in coding since June,2023. <br>  
+                    I am doing well in coding since June,2023. <br> 
                     Also, posted some projects and works on Github.UI projects are also avaliable. <br>
                     Most difficult projects-  <br>
                     1: My website <br>
